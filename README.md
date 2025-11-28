@@ -1,5 +1,6 @@
-# html-css-js-notes
+# 📘 HTML / CSS / JS — Notes & Studies
 
-Repositório criado para anotações de estudo de front end: html, css, js
-Teste
-S
+Repositório criado para organizar meus estudos de Front-End.  
+Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.
+
+---
