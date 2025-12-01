@@ -4,3 +4,7 @@ Repositório criado para organizar meus estudos de Front-End.
 Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.
 
 ---
+
+Teste  
+1, 2, 3  
+Teste
