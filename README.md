@@ -78,19 +78,19 @@ README.md
 ### 🔹 Inicializar o Git
 
 ```bash
- git init
+git init
 ```
 
 ### 🔹 Adicionar arquivos ao commit
 
 ```bash
- git add .
+git add .
 ```
 
 ### 🔹 Criar um commit
 
 ```bash
- git commit -m "mensagem"
+git commit -m "mensagem"
 ```
 
 ### 🔹 Enviar para o GitHub (primeira vez)
@@ -124,25 +124,25 @@ git status
 Alterar algo:
 
 ```bash
- git add .
+git add .
 ```
 
 Registrar alteração:
 
 ```bash
- git commit -m "descrição"
+git commit -m "descrição"
 ```
 
 Enviar pro GitHub:
 
 ```bash
- git push
+git push
 ```
 
 Atualizar projeto local:
 
 ```bash
- git pull
+git pull
 ```
 
 ---
