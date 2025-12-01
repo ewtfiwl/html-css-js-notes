@@ -34,12 +34,12 @@ Aqui eu documento:
 
 ## 📂 Estrutura de Pastas
 
-/background-e-colors/
-/box-model/
-/cinema/
-/web/
-/exercicios/
-/projetos/
+/background-e-colors/  
+/box-model/  
+/cinema/  
+/web/  
+/exercicios/  
+/projetos/  
 README.md
 
 > Essa estrutura vai crescer conforme eu evoluir nos estudos.
@@ -77,79 +77,98 @@ README.md
 
 ### 🔹 Inicializar o Git
 
-````bash
-git init
+```bash
+ git init
+```
 
 ### 🔹 Adicionar arquivos ao commit
+
+````bash
+ git add .
 ```bash
-git add .
+
 
 ### 🔹 Criar um commit
+
 ```bash
-git commit -m "mensagem"
+ git commit -m "mensagem"
+```bash
 
 ### 🔹 Enviar para o GitHub (primeira vez)
+
 ```bash
 git push -u origin main
-
-### 🔹 Enviar atualizações
-```bash
-git push
-
-### 🔹Baixar atualizações
-```bash
-git pull
-
-### 🔹Ver status do que foi modificado
-```bash
-git status
 ````
 
-🚀 Fluxo de Trabalho com Git
+### 🔹 Enviar atualizações
+
+```bash
+git push
+```
+
+### 🔹Baixar atualizações
+
+```bash
+git pull
+```
+
+### 🔹Ver status do que foi modificado
+
+```bash
+git status
+```
+
+### 🚀 Fluxo de Trabalho com Git
 
 Alterar algo:
 
 ```bash
-👉 git add .
+ git add .
 ```
 
 Registrar alteração:
 
-````bash
-👉 git commit -m "descrição"
+```bash
+ git commit -m "descrição"
+```
 
 Enviar pro GitHub:
+
 ```bash
-👉 git push
+ git push
+```
 
 Atualizar projeto local:
+
 ```bash
-👉 git pull
-````
+ git pull
+```
 
 ---
 
-✨ Boas Práticas de Commit
+### ✨ Boas Práticas de Commit
 
 ✔️ Ser claro
 
-````bash
+```bash
 git commit -m "Adiciona seção de HTML semântico"
+```
 
 ✔️ Ser objetivo
+
 ```bash
 git commit -m "Corrige bug no menu responsivo"
+```
 
-❌ Evitar:
+### ❌ Evitar:
 
 "aaa"
 "teste"
 "arrumei"
-````
 
 ---
 
-🌱 Próximos Passos
+### 🌱 Próximos Passos
 
 Criar README específico para cada projeto
 
@@ -161,7 +180,7 @@ Criar primeiros mini projetos com JS
 
 Adicionar GIFs de demonstração dos projetos
 
-📬 Contato
+### 📬 Contato
 
 📧 Enzo.lemos05@gmail.com
 
