@@ -35,13 +35,13 @@ Aqui eu documento:
 
 ## 📂 Estrutura de Pastas
 
-/background-e-colors/  
-/box-model/  
-/cinema/  
-/web/  
-/exercicios/  
-/projetos/  
-README.md
+- [Background e Colors](/background-e-colors/)
+- [box-model](/box-model/)
+- [cinema](/cinema/)
+- [web](/web/)
+- [exercicios](/exercicios/)
+- [projetos](/projetos/)
+- [README.md](/README.md)
 
 > Essa estrutura vai crescer conforme eu evoluir nos estudos.
 
