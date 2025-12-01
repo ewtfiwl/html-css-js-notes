@@ -4,9 +4,9 @@
 
 # 📘 HTML / CSS / JS — Notes & Studies
 
-Repositório criado para organizar meus estudos de Front-End.  
+Repositório criado para organizar meus estudos de **Front-End.**  
 Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.  
-Criei este repositório para organizar meus estudos de front-end, experimentar novas ideias e documentar minha evolução como desenvolvedor.
+Criei este repositório para organizar meus estudos de **front-end**, experimentar novas ideias e documentar minha evolução como **desenvolvedor**.
 
 ---
 
@@ -25,7 +25,7 @@ Criei este repositório para organizar meus estudos de front-end, experimentar n
 
 ## 📘 Sobre o Repositório
 
-Este repositório existe para acompanhar minha evolução como desenvolvedor Front-End.
+Este repositório existe para acompanhar minha evolução como **desenvolvedor Front-End**.
 
 Aqui eu documento:
 
@@ -33,7 +33,7 @@ Aqui eu documento:
 - Códigos de treino
 - Exercícios das aulas
 - Pequenos projetos pessoais
-- Testes com HTML, CSS e JavaScript
+- Testes com **HTML**, **CSS** e **JavaScript**
 
 ---
 
@@ -171,15 +171,15 @@ git commit -m "Corrige bug no menu responsivo"
 
 ### 🌱 Próximos Passos
 
-- Criar README específico para cada projeto
+- Criar **README** específico para cada projeto
 
-- Adicionar exercícios de Flexbox
+- Adicionar exercícios de **Flexbox**
 
-- Estudar e anotar Grid Layout
+- Estudar e anotar **Grid Layout**
 
-- Criar primeiros mini projetos com JS
+- Criar primeiros mini projetos com **JS**
 
-- Adicionar GIFs de demonstração dos projetos
+- Adicionar GIFs de demonstração dos **projetos**
 
 ---
 
