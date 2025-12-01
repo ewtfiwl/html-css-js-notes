@@ -15,11 +15,11 @@ Criei este repositório para organizar meus estudos de **front-end**, experiment
 - [📘 Sobre o Repositório](#-sobre-o-repositório)
 - [📂 Estrutura de Pastas](#-estrutura-de-pastas)
 - [📚 Anotações Importantes](#-anotações-importantes)
-- [🧰 Comandos Git Essenciais](#-comandos-git-essenciais)
+- [🔧 Comandos Git Essenciais](#-comandos-git-essenciais)
 - [🚀 Fluxo de Trabalho com Git](#-fluxo-de-trabalho-com-git)
 - [✨ Boas Práticas de Commit](#-boas-práticas-de-commit)
-- [🌱 Próximos Passos](#-próximos-passos)
-- [📬 Contato](#-contato)
+- [👣 Próximos Passos](#-próximos-passos)
+- [📞 Contato](#-contato)
 
 ---
 
@@ -76,7 +76,7 @@ Aqui eu documento:
 
 ---
 
-## 🧰 Comandos Git Essenciais
+## 🔧 Comandos Git Essenciais
 
 ### 🔹 Inicializar o Git
 
@@ -169,21 +169,21 @@ git commit -m "Corrige bug no menu responsivo"
 
 ---
 
-### 🌱 Próximos Passos
+### 👣 Próximos Passos
 
-- Criar **README** específico para cada projeto
+- 🖌️ Criar **README** específico para cada projeto
 
-- Adicionar exercícios de **Flexbox**
+- ➕ Adicionar exercícios de **Flexbox**
 
-- Estudar e anotar **Grid Layout**
+- ✍️ Estudar e anotar **Grid Layout**
 
-- Criar primeiros mini projetos com **JS**
+- 📖 Criar primeiros mini projetos com **JS**
 
-- Adicionar GIFs de demonstração dos **projetos**
+- 📸 Adicionar GIFs de demonstração dos **projetos**
 
 ---
 
-### 📬 Contato
+### 📞 Contato
 
 📱 (11) 95682-5748
 
