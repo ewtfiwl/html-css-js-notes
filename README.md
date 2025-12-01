@@ -8,13 +8,13 @@ Criei este repositório para organizar meus estudos de front-end, experimentar n
 
 ## 📑 Índice
 
-- [📘 Sobre o Repositório](#-sobre-o-repositório)
+- [📘 Sobre o Repositório](#-sobre-o-repositorio)
 - [📂 Estrutura de Pastas](#-estrutura-de-pastas)
-- [📚 Anotações Importantes](#-anotações-importantes)
+- [📚 Anotações Importantes](#-anotaçoes-importantes)
 - [🧰 Comandos Git Essenciais](#-comandos-git-essenciais)
 - [🚀 Fluxo de Trabalho com Git](#-fluxo-de-trabalho-com-git)
-- [✨ Boas Práticas de Commit](#-boas-práticas-de-commit)
-- [🌱 Próximos Passos](#-próximos-passos)
+- [✨ Boas Práticas de Commit](#-boas-praticas-de-commit)
+- [🌱 Próximos Passos](#-proximos-passos)
 - [📬 Contato](#-contato)
 
 ---
