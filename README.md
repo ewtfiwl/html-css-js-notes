@@ -7,14 +7,14 @@ Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo q
 
 ## 📑 Índice
 
-- [📘 Sobre o Repositório](#sobre-o-repositório)
-- [📂 Estrutura de Pastas](#estrutura-de-pastas)
-- [📚 Anotações Importantes](#anotações-importantes)
-- [🧰 Comandos Git Essenciais](#comandos-git-essenciais)
-- [🚀 Fluxo de Trabalho com Git](#fluxo-de-trabalho-com-git)
-- [✨ Boas Práticas de Commit](#boas-práticas-de-commit)
-- [🌱 Próximos Passos](#próximos-passos)
-- [📬 Contato](#contato)
+- [📘 Sobre o Repositório](#-sobre-o-repositório)
+- [📂 Estrutura de Pastas](#-estrutura-de-pastas)
+- [📚 Anotações Importantes](#-anotações-importantes)
+- [🧰 Comandos Git Essenciais](#-comandos-git-essenciais)
+- [🚀 Fluxo de Trabalho com Git](#-fluxo-de-trabalho-com-git)
+- [✨ Boas Práticas de Commit](#-boas-práticas-de-commit)
+- [🌱 Próximos Passos](#-próximos-passos)
+- [📬 Contato](#-contato)
 
 ---
 
