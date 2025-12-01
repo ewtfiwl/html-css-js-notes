@@ -121,13 +121,15 @@ Enviar pro GitHub:
 Atualizar projeto local:
 ```bash
 👉 git pull
+````
 
 ---
 
 ✨ Boas Práticas de Commit
 
 ✔️ Ser claro
-```bash
+
+````bash
 git commit -m "Adiciona seção de HTML semântico"
 
 ✔️ Ser objetivo
@@ -139,6 +141,7 @@ git commit -m "Corrige bug no menu responsivo"
 "aaa"
 "teste"
 "arrumei"
+````
 
 ---
 
@@ -161,5 +164,3 @@ Adicionar GIFs de demonstração dos projetos
 📱 (11) 95682-5748
 
 🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
-
-````
