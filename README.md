@@ -3,6 +3,8 @@
 Repositório criado para organizar meus estudos de Front-End.
 Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.
 
+---
+
 📑 Índice
 
 📘 Sobre o Repositório
@@ -19,7 +21,7 @@ Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo q
 
 🌱 Próximos Passos
 
-📬 Contato
+## 📬 Contato
 
 📘 Sobre o Repositório
 
@@ -35,20 +37,20 @@ Exercícios das aulas
 
 Pequenos projetos pessoais
 
-Testes com HTML, CSS e JavaScript
+## Testes com HTML, CSS e JavaScript
 
-📂 Estrutura de Pastas
-/projetos-front-end/
-/html-basico/
-/css/
-/javascript/
-/exercicios/
-/projetos/
+📂 Estrutura de Pastas  
+/background-e-colors/  
+/box-model/  
+/cinema/  
+/web/  
+/exercicios/  
+/projetos/  
 README.md
 
-Essa estrutura vai crescendo conforme eu evoluir nos estudos.
+## Essa estrutura vai crescendo conforme eu evoluir nos estudos.
 
-📚 Anotações Importantes
+📚 Anotações Importantes  
 🔸 Fundamentos de HTML
 
 Tags essenciais
@@ -79,43 +81,45 @@ DOM
 
 Arrays e Objetos
 
-(Vou preencher conforme estudo.)
+## (Vou preencher conforme estudo.)
 
-🧰 Comandos Git Essenciais
+🧰 Comandos Git Essenciais  
 🔹 Inicializar o Git
 git init
 
-🔹 Adicionar arquivos ao commit
+🔹 Adicionar arquivos ao commit  
 git add .
 
-🔹 Criar um commit
+🔹 Criar um commit  
 git commit -m "mensagem"
 
-🔹 Enviar para o GitHub (primeira vez)
+🔹 Enviar para o GitHub (primeira vez)  
 git push -u origin main
 
-🔹 Enviar atualizações
+🔹 Enviar atualizações  
 git push
 
-🔹 Baixar atualizações
+🔹 Baixar atualizações  
 git pull
 
-🔹 Ver status do que foi modificado
+🔹 Ver status do que foi modificado  
 git status
 
 🚀 Fluxo de Trabalho com Git
 
-Alterar algo:
+Alterar algo:  
 👉 git add .
 
-Registrar alteração:
+Registrar alteração:  
 👉 git commit -m "descrição"
 
-Enviar pro GitHub:
+Enviar pro GitHub:  
 👉 git push
 
-Atualizar projeto local:
+Atualizar projeto local:  
 👉 git pull
+
+---
 
 ✨ Boas Práticas de Commit
 
@@ -129,9 +133,11 @@ git commit -m "Corrige bug no menu responsivo"
 
 ❌ Evitar:
 
-git commit -m "aaa"
-git commit -m "teste"
+git commit -m "aaa"  
+git commit -m "teste"  
 git commit -m "arrumei"
+
+---
 
 🌱 Próximos Passos
 
@@ -143,11 +149,12 @@ Estudar e anotar Grid Layout
 
 Criar primeiros mini projetos com JS
 
-Adicionar GIFs de demonstração dos projetos
+## Adicionar GIFs de demonstração dos projetos
 
 📬 Contato
 
 📧 Enzo.lemos05@gmail.com
 
 📱 (11) 95682-5748
+
 🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
