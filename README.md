@@ -35,8 +35,8 @@ Aqui eu documento:
 
 ## 📂 Estrutura de Pastas
 
-- [Background-e-Colors](/BackGround e Colors/)
-- [Box Model](/Box Model/)
+- [Background e Colors](/BackGround-e-Colors/)
+- [Box Model](/Box-Model/)
 - [Cinema](/Cinema/)
 - [web](/web/)
 - [README](/README.md/)
