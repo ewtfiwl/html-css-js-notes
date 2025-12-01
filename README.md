@@ -181,9 +181,9 @@ git commit -m "Corrige bug no menu responsivo"
 
 ### 📬 Contato
 
-📧 Enzo.lemos05@gmail.com
-
 📱 (11) 95682-5748
+
+📧 Enzo.lemos05@gmail.com
 
 🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
 
