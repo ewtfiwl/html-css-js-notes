@@ -1,9 +1,7 @@
-# 📘 HTML / CSS / JS — Notes & Studies
+📘 HTML / CSS / JS — Notes & Studies
 
-Repositório criado para organizar meus estudos de Front-End.  
+Repositório criado para organizar meus estudos de Front-End.
 Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.
-
----
 
 📑 Índice
 
@@ -99,7 +97,7 @@ git push -u origin main
 🔹 Enviar atualizações
 git push
 
-🔹 Baixar atualizações do GitHub
+🔹 Baixar atualizações
 git pull
 
 🔹 Ver status do que foi modificado
@@ -110,10 +108,10 @@ git status
 Alterar algo:
 👉 git add .
 
-Registrar alteração
+Registrar alteração:
 👉 git commit -m "descrição"
 
-Enviar pro GitHub
+Enviar pro GitHub:
 👉 git push
 
 Atualizar projeto local:
@@ -122,12 +120,15 @@ Atualizar projeto local:
 ✨ Boas Práticas de Commit
 
 ✔️ Ser claro
+
 git commit -m "Adiciona seção de HTML semântico"
 
 ✔️ Ser objetivo
+
 git commit -m "Corrige bug no menu responsivo"
 
 ❌ Evitar:
+
 git commit -m "aaa"
 git commit -m "teste"
 git commit -m "arrumei"
@@ -146,6 +147,7 @@ Adicionar GIFs de demonstração dos projetos
 
 📬 Contato
 
-Enzo.lemos05@gmail.com  
-(11)956825748
-https://www.linkedin.com/in/enzo-lemos-599530270/
+📧 Enzo.lemos05@gmail.com
+
+📱 (11) 95682-5748
+🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
