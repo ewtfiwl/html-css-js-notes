@@ -89,15 +89,15 @@ README.md
 
 ### 🔹 Criar um commit
 
-`````bash
+```bash
  git commit -m "mensagem"
-````bash
+```
 
 ### 🔹 Enviar para o GitHub (primeira vez)
 
-````bash
+```bash
 git push -u origin main
-`````
+```
 
 ### 🔹 Enviar atualizações
 
