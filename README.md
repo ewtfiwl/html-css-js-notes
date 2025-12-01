@@ -83,22 +83,21 @@ README.md
 
 ### 🔹 Adicionar arquivos ao commit
 
-````bash
- git add .
 ```bash
-
+ git add .
+```
 
 ### 🔹 Criar um commit
 
-```bash
+`````bash
  git commit -m "mensagem"
-```bash
+````bash
 
 ### 🔹 Enviar para o GitHub (primeira vez)
 
-```bash
+````bash
 git push -u origin main
-````
+`````
 
 ### 🔹 Enviar atualizações
 
