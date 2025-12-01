@@ -1,122 +1,125 @@
-📘 HTML / CSS / JS — Notes & Studies
+# 📘 HTML / CSS / JS — Notes & Studies
 
-Repositório criado para organizar meus estudos de Front-End.
+Repositório criado para organizar meus estudos de Front-End.  
 Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.
 
 ---
 
-📑 Índice
+## 📑 Índice
 
-📘 Sobre o Repositório
+- [📘 Sobre o Repositório](#-sobre-o-repositório)
+- [📂 Estrutura de Pastas](#-estrutura-de-pastas)
+- [📚 Anotações Importantes](#-anotações-importantes)
+- [🧰 Comandos Git Essenciais](#-comandos-git-essenciais)
+- [🚀 Fluxo de Trabalho com Git](#-fluxo-de-trabalho-com-git)
+- [✨ Boas Práticas de Commit](#-boas-práticas-de-commit)
+- [🌱 Próximos Passos](#-próximos-passos)
+- [📬 Contato](#-contato)
 
-📂 Estrutura de Pastas
+---
 
-📚 Anotações Importantes
-
-🧰 Comandos Git Essenciais
-
-🚀 Fluxo de Trabalho com Git
-
-✨ Boas Práticas de Commit
-
-🌱 Próximos Passos
-
-## 📬 Contato
-
-📘 Sobre o Repositório
+## 📘 Sobre o Repositório
 
 Este repositório existe para acompanhar minha evolução como desenvolvedor Front-End.
 
 Aqui eu documento:
 
-Minhas anotações de estudo
+- Minhas anotações de estudo
+- Códigos de treino
+- Exercícios das aulas
+- Pequenos projetos pessoais
+- Testes com HTML, CSS e JavaScript
 
-Códigos de treino
+---
 
-Exercícios das aulas
+## 📂 Estrutura de Pastas
 
-Pequenos projetos pessoais
-
-## Testes com HTML, CSS e JavaScript
-
-📂 Estrutura de Pastas  
-/background-e-colors/  
-/box-model/  
-/cinema/  
-/web/  
-/exercicios/  
-/projetos/  
+/background-e-colors/
+/box-model/
+/cinema/
+/web/
+/exercicios/
+/projetos/
 README.md
 
-## Essa estrutura vai crescendo conforme eu evoluir nos estudos.
+> Essa estrutura vai crescer conforme eu evoluir nos estudos.
 
-📚 Anotações Importantes  
-🔸 Fundamentos de HTML
+---
 
-Tags essenciais
+## 📚 Anotações Importantes
 
-Atributos
+### 🔸 Fundamentos de HTML
 
-HTML semântico
+- Tags essenciais
+- Atributos
+- HTML semântico
+- Estrutura base
 
-Estrutura base
+### 🔸 Fundamentos de CSS
 
-🔸 Fundamentos de CSS
+- Seletores
+- Flexbox
+- Grid
+- Responsividade
 
-Seletores
+### 🔸 Fundamentos de JavaScript
 
-Flexbox
+- Variáveis
+- Funções
+- DOM
+- Arrays e Objetos
 
-Grid
+> (Vou preencher conforme estudo.)
 
-Responsividade
+---
 
-🔸 Fundamentos de JavaScript
+## 🧰 Comandos Git Essenciais
 
-Variáveis
+### 🔹 Inicializar o Git
 
-Funções
-
-DOM
-
-Arrays e Objetos
-
-## (Vou preencher conforme estudo.)
-
-🧰 Comandos Git Essenciais  
-🔹 Inicializar o Git
+````bash
 git init
 
-🔹 Adicionar arquivos ao commit  
+### 🔹 Adicionar arquivos ao commit
+```bash
 git add .
 
-🔹 Criar um commit  
+### 🔹 Criar um commit
+```bash
 git commit -m "mensagem"
 
-🔹 Enviar para o GitHub (primeira vez)  
+### 🔹 Enviar para o GitHub (primeira vez)
+```bash
 git push -u origin main
 
-🔹 Enviar atualizações  
+### 🔹 Enviar atualizações
+```bash
 git push
 
-🔹 Baixar atualizações  
+### 🔹Baixar atualizações
+```bash
 git pull
 
-🔹 Ver status do que foi modificado  
+### 🔹Ver status do que foi modificado
+```bash
 git status
 
 🚀 Fluxo de Trabalho com Git
 
-Alterar algo:  
+Alterar algo:
+```bash
 👉 git add .
 
-Registrar alteração:  
+Registrar alteração:
+```bash
 👉 git commit -m "descrição"
 
-Enviar pro GitHub:  
+Enviar pro GitHub:
+```bash
 👉 git push
 
-Atualizar projeto local:  
+Atualizar projeto local:
+```bash
 👉 git pull
 
 ---
@@ -124,18 +127,18 @@ Atualizar projeto local:
 ✨ Boas Práticas de Commit
 
 ✔️ Ser claro
-
+```bash
 git commit -m "Adiciona seção de HTML semântico"
 
 ✔️ Ser objetivo
-
+```bash
 git commit -m "Corrige bug no menu responsivo"
 
 ❌ Evitar:
 
-git commit -m "aaa"  
-git commit -m "teste"  
-git commit -m "arrumei"
+"aaa"
+"teste"
+"arrumei"
 
 ---
 
@@ -149,7 +152,7 @@ Estudar e anotar Grid Layout
 
 Criar primeiros mini projetos com JS
 
-## Adicionar GIFs de demonstração dos projetos
+Adicionar GIFs de demonstração dos projetos
 
 📬 Contato
 
@@ -158,3 +161,5 @@ Criar primeiros mini projetos com JS
 📱 (11) 95682-5748
 
 🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
+
+````
