@@ -149,21 +149,20 @@ git pull
 
 ### ✨ Boas Práticas de Commit
 
-✔️ Ser claro
+❌ Evite:
+
+```bash
+git commit -m "aaa"
+git commit -m "teste"
+git commit -m "arrumei"
+```
+
+✔️ Prefira:
 
 ```bash
 git commit -m "Adiciona seção de HTML semântico"
-```
-
-✔️ Ser objetivo
-
-```bash
 git commit -m "Corrige bug no menu responsivo"
 ```
-
-### ❌ Evitar:
-
-"aaa" "teste" "arrumei"
 
 ---
 
