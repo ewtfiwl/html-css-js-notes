@@ -117,6 +117,8 @@ git pull
 git status
 ```
 
+---
+
 ### 🚀 Fluxo de Trabalho com Git
 
 Alterar algo:
@@ -161,8 +163,8 @@ git commit -m "Corrige bug no menu responsivo"
 
 ### ❌ Evitar:
 
-"aaa"
-"teste"
+"aaa"  
+"teste"  
 "arrumei"
 
 ---
@@ -179,6 +181,8 @@ Criar primeiros mini projetos com JS
 
 Adicionar GIFs de demonstração dos projetos
 
+---
+
 ### 📬 Contato
 
 📧 Enzo.lemos05@gmail.com
@@ -186,3 +190,5 @@ Adicionar GIFs de demonstração dos projetos
 📱 (11) 95682-5748
 
 🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
+
+---
