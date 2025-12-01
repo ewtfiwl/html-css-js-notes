@@ -103,15 +103,19 @@ git pull
 ### 🔹Ver status do que foi modificado
 ```bash
 git status
+````
 
 🚀 Fluxo de Trabalho com Git
 
 Alterar algo:
+
 ```bash
 👉 git add .
+```
 
 Registrar alteração:
-```bash
+
+````bash
 👉 git commit -m "descrição"
 
 Enviar pro GitHub:
