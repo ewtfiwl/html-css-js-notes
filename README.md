@@ -163,9 +163,7 @@ git commit -m "Corrige bug no menu responsivo"
 
 ### ❌ Evitar:
 
-"aaa"  
-"teste"  
-"arrumei"
+"aaa", "teste", "arrumei"
 
 ---
 
