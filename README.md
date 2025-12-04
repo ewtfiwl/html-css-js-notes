@@ -95,7 +95,7 @@ Aqui eu documento:
     ```
 
 - HTML semântico
-  > vou preencher mais tarde
+  > (vou preencher mais tarde)
 - Estrutura base (super importante!)
 
   - **Modelo inicial obrigatório de qualquer página HTML. Serve como ponto de partida para estruturar todo o documento.**
