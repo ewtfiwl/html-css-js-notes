@@ -151,18 +151,18 @@ _Esses estilos podem variar entre browsers, então é comum sobrescrever ou rese
 - **`width`/`height`**
   E alguns elementos ignoram parte da herança, como:
 - **`<a>`→ não herda a cor automaticamente**
-- **`<button>`→ praticamente nada é herdado (borda, fundo, cor vêm do navegador)**
-  Exemplo utilizado:
+- **`<button>`→ praticamente nada é herdado (borda, fundo, cor vêm do navegador)**  
+  -**Exemplo utilizado:**
 
-```css
-body {
-  color: seagreen;
-}
+  ```css
+  body {
+    color: seagreen;
+  }
 
-a {
-  color: inherit;
-}
-```
+  a {
+    color: inherit;
+  }
+  ```
 
 _Assim, quando o `body` muda de cor, todos os elementos — inclusive os links — acompanham automaticamente, deixando o código mais limpo e fácil de manter._
 
