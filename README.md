@@ -165,10 +165,6 @@ _Esses estilos podem variar entre browsers, então é comum sobrescrever ou rese
     }
     ```
 
-  ```
-
-  ```
-
 _Assim, quando o `body` muda de cor, todos os elementos — inclusive os links — acompanham automaticamente, deixando o código mais limpo e fácil de manter._
 
 - 🔘 Comportamento do `<button>`  
