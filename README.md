@@ -153,8 +153,7 @@ _Esses estilos podem variar entre browsers, então é comum sobrescrever ou rese
     E alguns elementos ignoram parte da herança, como:
   - **`<a>`→ não herda a cor automaticamente**
   - **`<button>`→ praticamente nada é herdado (borda, fundo, cor vêm do navegador)**
-
-    - **Exemplo utilizado:**
+  - **Exemplo utilizado:**
 
     ```css
     body {
@@ -174,8 +173,7 @@ _Assim, quando o `body` muda de cor, todos os elementos — inclusive os links �
   - **cor do texto**
   - **borda**
   - **background**
-
-    - Se quisermos deixá-lo “cru” e estilizar 100% manualmente:
+  - **Se quisermos deixá-lo “cru” e estilizar 100% manualmente:**
 
     ```css
     button {
@@ -319,7 +317,3 @@ git commit -m "Corrige bug no menu responsivo"
 🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
 
 ---
-
-```
-
-```
