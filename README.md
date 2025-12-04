@@ -62,6 +62,39 @@ Aqui eu documento:
     _Usada como um contêiner genérico para agrupar elementos e estruturar a página. Muito utilizada na construção de layouts._
 
 - Atributos
+
+  - **Atributos:**
+    - **O que são? Informações extras usadas dentro das tags para configurar comportamento, identificação e estilo.**
+    - **Principais atributos esseciais:**
+      - **id — identifica um elemento único:**
+      ```html
+      <div id="menu"></div>
+      ```
+      - **class — agrupa elementos para estilização:**
+      ```html
+      <p class="descricao"></p>
+      ```
+      - **src — caminho de imagens/scripts:**
+      ```html
+      <img src="foto.png" />
+      ```
+      - **href — usado em links:**
+      ```html
+      <a href="https://google.com">Google</a>
+      ```
+      - **alt — descrição de imagem (acessibilidade):**
+      ```html
+      <img src="foto.png" alt="Foto de perfil" />
+      ```
+      - **type — define o tipo de inputs:**
+      ```html
+      <input type="text" />
+      ```
+      - **title — mostra uma dica ao passar o mouse**
+      ```html
+      <button title="Enviar formulário">Enviar</button>
+      ```
+
 - HTML semântico
 - Estrutura base (super importante!)
   ```html
