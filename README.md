@@ -139,6 +139,52 @@ Aqui eu documento:
 
 _Esses estilos podem variar entre browsers, então é comum sobrescrever ou resetar esses padrões para garantir consistência._
 
+- 🧬 Herança no CSS (inherit)
+  Algumas propriedades são herdadas automaticamente pelos elementos filhos:
+- **`color`**
+- **`font-family`**
+- **`line-height`**
+  Já outras, não são herdadas, como:
+- **`background`**
+- **`border`**
+- **`width`/`height`**
+  E alguns elementos ignoram parte da herança, como:
+- **`<a>`→ não herda a cor automaticamente**
+- **`<button>`→ praticamente nada é herdado (borda, fundo, cor vêm do navegador)**
+  Exemplo utilizado:
+
+```css
+body {
+  color: seagreen;
+}
+
+a {
+  color: inherit;
+}
+```
+
+_Assim, quando o `body` muda de cor, todos os elementos — inclusive os links — acompanham automaticamente, deixando o código mais limpo e fácil de manter._
+
+- 🔘 Comportamento do `<button>`  
+  O elemento `<button>` possui um estilo próprio do navegador e não herda:
+
+  - **cor do texto**
+  - **borda**
+  - **background**
+
+Se quisermos deixá-lo “cru” e estilizar 100% manualmente:
+
+```css
+button {
+  color: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+}
+```
+
+_Isso remove os estilos padrão e passa a usar a cor do elemento pai._
+
 - Flexbox
 - Grid
 - Responsividade
