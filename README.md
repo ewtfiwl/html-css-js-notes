@@ -142,27 +142,28 @@ _Esses estilos podem variar entre browsers, então é comum sobrescrever ou rese
 
 - 🧬 Herança no CSS (inherit)  
   Algumas propriedades são herdadas automaticamente pelos elementos filhos:
-- **`color`**
-- **`font-family`**
-- **`line-height`**
-  Já outras, não são herdadas, como:
-- **`background`**
-- **`border`**
-- **`width`/`height`**
-  E alguns elementos ignoram parte da herança, como:
-- **`<a>`→ não herda a cor automaticamente**
-- **`<button>`→ praticamente nada é herdado (borda, fundo, cor vêm do navegador)**  
-  -**Exemplo utilizado:**
 
-  ```css
-  body {
-    color: seagreen;
-  }
+  - **`color`**
+  - **`font-family`**
+  - **`line-height`**
+    Já outras, não são herdadas, como:
+  - **`background`**
+  - **`border`**
+  - **`width`/`height`**
+    E alguns elementos ignoram parte da herança, como:
+  - **`<a>`→ não herda a cor automaticamente**
+  - **`<button>`→ praticamente nada é herdado (borda, fundo, cor vêm do navegador)**  
+    -**Exemplo utilizado:**
 
-  a {
-    color: inherit;
-  }
-  ```
+    ```css
+    body {
+      color: seagreen;
+    }
+
+    a {
+      color: inherit;
+    }
+    ```
 
 _Assim, quando o `body` muda de cor, todos os elementos — inclusive os links — acompanham automaticamente, deixando o código mais limpo e fácil de manter._
 
