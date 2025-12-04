@@ -96,21 +96,25 @@ Aqui eu documento:
 
 - HTML semântico
 - Estrutura base (super importante!)
-  ```html
-  <!DOCTYPE html>
-  <html lang="pt-br">
-    <head>
-      <meta charset="UTF-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Título da Página</title>
-      <link rel="stylesheet" href="style.css" />
-    </head>
-    <body>
-      <!-- Conteúdo aqui -->
-    </body>
-  </html>
-  ```
-  _Essa é a estrutura mínima de uma página HTML. Ela define a codificação, o título, importa o CSS e envolve todo o conteúdo._
+
+  - **Modelo inicial obrigatório de qualquer página HTML. Serve como ponto de partida para estruturar todo o documento.**
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="pt-br">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Título da Página</title>
+        <link rel="stylesheet" href="style.css" />
+      </head>
+      <body>
+        <!-- Conteúdo aqui -->
+      </body>
+    </html>
+    ```
+
+    _Essa é a estrutura mínima de uma página HTML_
 
 ### 🔸 Fundamentos de CSS
 
