@@ -5,8 +5,8 @@
 # 📘 HTML / CSS / JS — Notes & Studies
 
 Repositório criado para organizar meus estudos de **Front-End.**  
-Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.  
-Criei este repositório para organizar meus estudos de **front-end**, experimentar novas ideias e documentar minha evolução como **desenvolvedor**.
+ Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.  
+ Criei este repositório para organizar meus estudos de **front-end**, experimentar novas ideias e documentar minha evolução como **desenvolvedor**.
 
 ---
 
@@ -61,134 +61,143 @@ Aqui eu documento:
 ### 🔸 Fundamentos de CSS
 
 - Seletores
+
+  - **Seletor universal `*`:**
+    ```css
+    * {
+      box-shadow: inset 0 0 0 1px rgba(255, 0, 0, 0.5);
+    }
+    ```
+    _Usado para visualizar todos os elementos, adicionando uma borda interna vermelha. Útil para depuração._
+
 - Flexbox
 - Grid
 - Responsividade
 
-### 🔸 Fundamentos de JavaScript
+  ### 🔸 Fundamentos de JavaScript
 
-- Variáveis
-- Funções
-- DOM
-- Arrays e Objetos
+  - Variáveis
+  - Funções
+  - DOM
+  - Arrays e Objetos
 
-> (Vou preencher conforme estudo.)
+  > (Vou preencher conforme estudo.)
 
----
+  ***
 
-## 🔧 Comandos Git Essenciais
+  ## 🔧 Comandos Git Essenciais
 
-### 🔹 Inicializar o Git
+  ### 🔹 Inicializar o Git
 
-```bash
-git init
-```
+  ```bash
+  git init
+  ```
 
-### 🔹 Adicionar arquivos ao commit
+  ### 🔹 Adicionar arquivos ao commit
 
-```bash
-git add .
-```
+  ```bash
+  git add .
+  ```
 
-### 🔹 Criar um commit
+  ### 🔹 Criar um commit
 
-```bash
-git commit -m "mensagem"
-```
+  ```bash
+  git commit -m "mensagem"
+  ```
 
-### 🔹 Enviar para o GitHub (primeira vez)
+  ### 🔹 Enviar para o GitHub (primeira vez)
 
-```bash
-git push -u origin main
-```
+  ```bash
+  git push -u origin main
+  ```
 
-### 🔹 Enviar atualizações
+  ### 🔹 Enviar atualizações
 
-```bash
-git push
-```
+  ```bash
+  git push
+  ```
 
-### 🔹Baixar atualizações
+  ### 🔹Baixar atualizações
 
-```bash
-git pull
-```
+  ```bash
+  git pull
+  ```
 
-### 🔹Ver status do que foi modificado
+  ### 🔹Ver status do que foi modificado
 
-```bash
-git status
-```
+  ```bash
+  git status
+  ```
 
----
+  ***
 
-### 🚀 Fluxo de Trabalho com Git
+  ### 🚀 Fluxo de Trabalho com Git
 
-Alterar algo:
+  Alterar algo:
 
-```bash
-git add .
-```
+  ```bash
+  git add .
+  ```
 
-Registrar alteração:
+  Registrar alteração:
 
-```bash
-git commit -m "descrição"
-```
+  ```bash
+  git commit -m "descrição"
+  ```
 
-Enviar pro GitHub:
+  Enviar pro GitHub:
 
-```bash
-git push
-```
+  ```bash
+  git push
+  ```
 
-Atualizar projeto local:
+  Atualizar projeto local:
 
-```bash
-git pull
-```
+  ```bash
+  git pull
+  ```
 
----
+  ***
 
-### ✨ Boas Práticas de Commit
+  ### ✨ Boas Práticas de Commit
 
-❌ Evite:
+  ❌ Evite:
 
-```bash
-git commit -m "aaa"
-git commit -m "teste"
-git commit -m "arrumei"
-```
+  ```bash
+  git commit -m "aaa"
+  git commit -m "teste"
+  git commit -m "arrumei"
+  ```
 
-✔️ Prefira:
+  ✔️ Prefira:
 
-```bash
-git commit -m "Adiciona seção de HTML semântico"
-git commit -m "Corrige bug no menu responsivo"
-```
+  ```bash
+  git commit -m "Adiciona seção de HTML semântico"
+  git commit -m "Corrige bug no menu responsivo"
+  ```
 
----
+  ***
 
-### 👣 Próximos Passos
+  ### 👣 Próximos Passos
 
-- 🖌️ Criar **README** específico para cada projeto
+  - 🖌️ Criar **README** específico para cada projeto
 
-- ➕ Adicionar exercícios de **Flexbox**
+  - ➕ Adicionar exercícios de **Flexbox**
 
-- ✍️ Estudar e anotar **Grid Layout**
+  - ✍️ Estudar e anotar **Grid Layout**
 
-- 📖 Criar primeiros mini projetos com **JS**
+  - 📖 Criar primeiros mini projetos com **JS**
 
-- 📸 Adicionar GIFs de demonstração dos **projetos**
+  - 📸 Adicionar GIFs de demonstração dos **projetos**
 
----
+  ***
 
-### 📞 Contato
+  ### 📞 Contato
 
-📱 (11) 95682-5748
+  📱 (11) 95682-5748
 
-📧 Enzo.lemos05@gmail.com
+  📧 Enzo.lemos05@gmail.com
 
-🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
+  🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
 
----
+  ***
