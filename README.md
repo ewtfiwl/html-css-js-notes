@@ -129,6 +129,16 @@ Aqui eu documento:
     ```
     _Usado para visualizar todos os elementos, adicionando uma borda interna vermelha. Útil para depuração._
 
+- 🎨 Estilos de Navegador (User Agent Stylesheet)
+  Cada navegador aplica estilos padrões no HTML.  
+  Exemplos:
+  - **`<a>`→ cor azul + sublinhado:**
+  - **`<button>`→ borda, padding e background padrão:**
+  - **`<h1>`→ tamanho de fonte grande:**
+  - **`<p>`→ margem própria:**
+
+_Esses estilos podem variar entre browsers, então é comum sobrescrever ou resetar esses padrões para garantir consistência._
+
 - Flexbox
 - Grid
 - Responsividade
