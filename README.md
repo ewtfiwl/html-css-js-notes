@@ -54,19 +54,19 @@ Aqui eu documento:
 ### 🔸 Fundamentos de HTML
 
 - Tags essenciais
+- **Tag `<div>`:**
+
+
+    ```css
+    <div>
+    ```
+    _usada para auxiliar no posicionamento dos elementos_
+
 - Atributos
 - HTML semântico
 - Estrutura base
 
 ### 🔸 Fundamentos de CSS
-
-- Tags essenciais
-
-  - **Tag `<div>`:**
-    ```css
-    <div>
-    ```
-    _usada para auxiliar no posicionamento dos elementos_
 
 - Seletores
 
