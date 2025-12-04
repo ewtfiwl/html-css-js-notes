@@ -60,13 +60,13 @@ Aqui eu documento:
 
 ### 🔸 Fundamentos de CSS
 
-- Tags essenciais -**Tag Div `<div>`:**
+- Tags essenciais
 
-```css
-<div>
-```
-
-_usada para auxiliar no posicionamento dos elementos_
+  - **Tag `<div>`:**
+    ```css
+    <div>
+    ```
+    _usada para auxiliar no posicionamento dos elementos_
 
 - Seletores
 
