@@ -176,14 +176,15 @@ _Assim, quando o `body` muda de cor, todos os elementos — inclusive os links �
 
 Se quisermos deixá-lo “cru” e estilizar 100% manualmente:
 
-    ```css
+    ````css
     button {
     color: inherit;
     background: none;
     border: none;
     padding: 0;
     }
-    ```
+
+````
 
 _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
@@ -208,7 +209,7 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
 ```bash
 git init
-```
+````
 
 ### 🔹 Adicionar arquivos ao commit
 
