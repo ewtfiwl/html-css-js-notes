@@ -54,13 +54,12 @@ Aqui eu documento:
 ### 🔸 Fundamentos de HTML
 
 - Tags essenciais
-- **Tag `<div>`:**
 
-
-    ```css
-    <div>
+  - **Tag `<div>`:**
+    ```html
+    <div></div>
     ```
-    _usada para auxiliar no posicionamento dos elementos_
+    _Usada como um contêiner genérico para agrupar elementos e estruturar a página. Muito utilizada na construção de layouts._
 
 - Atributos
 - HTML semântico
