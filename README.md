@@ -205,45 +205,45 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
   ### 🔹 Inicializar o Git
 
-  ```bash
-  git init
-  ```
+```bash
+git init
+```
 
-  ### 🔹 Adicionar arquivos ao commit
+### 🔹 Adicionar arquivos ao commit
 
-  ```bash
-  git add .
-  ```
+```bash
+git add .
+```
 
-  ### 🔹 Criar um commit
+### 🔹 Criar um commit
 
-  ```bash
-  git commit -m "mensagem"
-  ```
+```bash
+git commit -m "mensagem"
+```
 
-  ### 🔹 Enviar para o GitHub (primeira vez)
+### 🔹 Enviar para o GitHub (primeira vez)
 
-  ```bash
-  git push -u origin main
-  ```
+```bash
+git push -u origin main
+```
 
-  ### 🔹 Enviar atualizações
+### 🔹 Enviar atualizações
 
-  ```bash
-  git push
-  ```
+```bash
+git push
+```
 
-  ### 🔹Baixar atualizações
+### 🔹Baixar atualizações
 
-  ```bash
-  git pull
-  ```
+```bash
+git pull
+```
 
-  ### 🔹Ver status do que foi modificado
+### 🔹Ver status do que foi modificado
 
-  ```bash
-  git status
-  ```
+```bash
+git status
+```
 
 ---
 
@@ -251,27 +251,27 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
 - **Alterar algo:**
 
-  ```bash
-  git add .
-  ```
+```bash
+git add .
+```
 
 - **Registrar alteração:**
 
-  ```bash
+```bash
   git commit -m "descrição"
-  ```
+```
 
 - **Enviar pro GitHub:**
 
-  ```bash
+```bash
   git push
-  ```
+```
 
 - **Atualizar projeto local:**
 
-  ```bash
+```bash
   git pull
-  ```
+```
 
 ---
 
