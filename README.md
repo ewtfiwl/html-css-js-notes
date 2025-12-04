@@ -64,7 +64,7 @@ Aqui eu documento:
 - Atributos
 
   - **O que são? Informações extras usadas dentro das tags para configurar comportamento, identificação e estilo.**
-  - **Principais atributos esseciais:**
+  - **Principais atributos essenciais:**
   - **id — identifica um elemento único:**
     ```html
     <div id="menu"></div>
@@ -115,7 +115,7 @@ Aqui eu documento:
     </html>
     ```
 
-    _Essa é a estrutura mínima de uma página HTML_
+    _Essa é a estrutura mínima de uma página HTML, usada em **todo projeto**_
 
 ### 🔸 Fundamentos de CSS
 
