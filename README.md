@@ -63,10 +63,9 @@ Aqui eu documento:
 
 - Atributos
 
-  - **Atributos:**
-    - **O que são? Informações extras usadas dentro das tags para configurar comportamento, identificação e estilo.**
-    - **Principais atributos esseciais:**
-      - **id — identifica um elemento único:**
+  - **O que são? Informações extras usadas dentro das tags para configurar comportamento, identificação e estilo.**
+  - **Principais atributos esseciais:**
+    - **id — identifica um elemento único:**
       ```html
       <div id="menu"></div>
       ```
