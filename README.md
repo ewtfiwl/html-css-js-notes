@@ -174,16 +174,18 @@ _Assim, quando o `body` muda de cor, todos os elementos — inclusive os links �
   - **borda**
   - **background**
 
-Se quisermos deixá-lo “cru” e estilizar 100% manualmente:
+- Se quisermos deixá-lo “cru” e estilizar 100% manualmente:
 
-```css
-button {
-  color: inherit;
-  background: none;
-  border: none;
-  padding: 0;
-}
-```
+  ```css
+  button {
+    color: inherit;
+    background: none;
+    border: none;
+    padding: 0;
+  }
+  ```
+
+````
 
 _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
@@ -208,113 +210,113 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
   ```bash
   git init
-  ```
+````
 
-  ### 🔹 Adicionar arquivos ao commit
+### 🔹 Adicionar arquivos ao commit
 
-  ```bash
-  git add .
-  ```
+```bash
+git add .
+```
 
-  ### 🔹 Criar um commit
+### 🔹 Criar um commit
 
-  ```bash
-  git commit -m "mensagem"
-  ```
+```bash
+git commit -m "mensagem"
+```
 
-  ### 🔹 Enviar para o GitHub (primeira vez)
+### 🔹 Enviar para o GitHub (primeira vez)
 
-  ```bash
-  git push -u origin main
-  ```
+```bash
+git push -u origin main
+```
 
-  ### 🔹 Enviar atualizações
+### 🔹 Enviar atualizações
 
-  ```bash
-  git push
-  ```
+```bash
+git push
+```
 
-  ### 🔹Baixar atualizações
+### 🔹Baixar atualizações
 
-  ```bash
-  git pull
-  ```
+```bash
+git pull
+```
 
-  ### 🔹Ver status do que foi modificado
+### 🔹Ver status do que foi modificado
 
-  ```bash
-  git status
-  ```
+```bash
+git status
+```
 
-  ***
+---
 
-  ### 🚀 Fluxo de Trabalho com Git
+### 🚀 Fluxo de Trabalho com Git
 
-  Alterar algo:
+Alterar algo:
 
-  ```bash
-  git add .
-  ```
+```bash
+git add .
+```
 
-  Registrar alteração:
+Registrar alteração:
 
-  ```bash
-  git commit -m "descrição"
-  ```
+```bash
+git commit -m "descrição"
+```
 
-  Enviar pro GitHub:
+Enviar pro GitHub:
 
-  ```bash
-  git push
-  ```
+```bash
+git push
+```
 
-  Atualizar projeto local:
+Atualizar projeto local:
 
-  ```bash
-  git pull
-  ```
+```bash
+git pull
+```
 
-  ***
+---
 
-  ### ✨ Boas Práticas de Commit
+### ✨ Boas Práticas de Commit
 
-  ❌ Evite:
+❌ Evite:
 
-  ```bash
-  git commit -m "aaa"
-  git commit -m "teste"
-  git commit -m "arrumei"
-  ```
+```bash
+git commit -m "aaa"
+git commit -m "teste"
+git commit -m "arrumei"
+```
 
-  ✔️ Prefira:
+✔️ Prefira:
 
-  ```bash
-  git commit -m "Adiciona seção de HTML semântico"
-  git commit -m "Corrige bug no menu responsivo"
-  ```
+```bash
+git commit -m "Adiciona seção de HTML semântico"
+git commit -m "Corrige bug no menu responsivo"
+```
 
-  ***
+---
 
-  ### 👣 Próximos Passos
+### 👣 Próximos Passos
 
-  - 🖌️ Criar **README** específico para cada projeto
+- 🖌️ Criar **README** específico para cada projeto
 
-  - ➕ Adicionar exercícios de **Flexbox**
+- ➕ Adicionar exercícios de **Flexbox**
 
-  - ✍️ Estudar e anotar **Grid Layout**
+- ✍️ Estudar e anotar **Grid Layout**
 
-  - 📖 Criar primeiros mini projetos com **JS**
+- 📖 Criar primeiros mini projetos com **JS**
 
-  - 📸 Adicionar GIFs de demonstração dos **projetos**
+- 📸 Adicionar GIFs de demonstração dos **projetos**
 
-  ***
+---
 
-  ### 📞 Contato
+### 📞 Contato
 
-  📱 (11) 95682-5748
+📱 (11) 95682-5748
 
-  📧 Enzo.lemos05@gmail.com
+📧 Enzo.lemos05@gmail.com
 
-  🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
+🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
 
-  ***
+---
