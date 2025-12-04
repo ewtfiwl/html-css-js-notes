@@ -174,7 +174,7 @@ _Assim, quando o `body` muda de cor, todos os elementos — inclusive os links �
   - **borda**
   - **background**
 
-- Se quisermos deixá-lo “cru” e estilizar 100% manualmente:
+  - Se quisermos deixá-lo “cru” e estilizar 100% manualmente:
 
   ```css
   button {
@@ -184,8 +184,6 @@ _Assim, quando o `body` muda de cor, todos os elementos — inclusive os links �
     padding: 0;
   }
   ```
-
-````
 
 _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
@@ -210,7 +208,7 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
   ```bash
   git init
-````
+  ```
 
 ### 🔹 Adicionar arquivos ao commit
 
@@ -320,3 +318,7 @@ git commit -m "Corrige bug no menu responsivo"
 🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
 
 ---
+
+```
+
+```
