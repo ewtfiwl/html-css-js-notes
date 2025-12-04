@@ -129,7 +129,7 @@ Aqui eu documento:
     ```
     _Usado para visualizar todos os elementos, adicionando uma borda interna vermelha. Útil para depuração._
 
-- 🎨 Estilos de Navegador (User Agent Stylesheet)
+- 🎨 Estilos de Navegador (User Agent Stylesheet)  
   Cada navegador aplica estilos padrões no HTML.  
   Exemplos:
   - **`<a>`→ cor azul + sublinhado:**
@@ -139,7 +139,7 @@ Aqui eu documento:
 
 _Esses estilos podem variar entre browsers, então é comum sobrescrever ou resetar esses padrões para garantir consistência._
 
-- 🧬 Herança no CSS (inherit)
+- 🧬 Herança no CSS (inherit)  
   Algumas propriedades são herdadas automaticamente pelos elementos filhos:
 - **`color`**
 - **`font-family`**
