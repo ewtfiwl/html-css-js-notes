@@ -316,7 +316,7 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
 📱 (11) 95682-5748
 
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-lemos-599530270/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.lemos05@gmail.com)
+
+---
