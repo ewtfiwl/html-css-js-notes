@@ -317,3 +317,349 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
 
 ---
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+# 📘 Estudos de Front-End — HTML / CSS / JavaScript
+
+Repositório criado para organizar meus estudos de **Front-End**, registrar minha evolução, guardar anotações importantes e reunir exercícios e testes práticos.
+
+---
+
+## 📑 Índice
+
+- [📘 Sobre o Repositório](#-sobre-o-repositório)
+- [📂 Estrutura de Pastas](#-estrutura-de-pastas)
+- [📚 Anotações Importantes](#-anotações-importantes)
+  - [🔸 Fundamentos de HTML](#-fundamentos-de-html)
+  - [🔸 Fundamentos de CSS](#-fundamentos-de-css)
+  - [🔸 Fundamentos de JavaScript](#-fundamentos-de-javascript)
+- [🔧 Comandos Git Essenciais](#-comandos-git-essenciais)
+- [🚀 Fluxo de Trabalho com Git](#-fluxo-de-trabalho-com-git)
+- [✨ Boas Práticas de Commit](#-boas-práticas-de-commit)
+- [👣 Próximos Passos](#-próximos-passos)
+- [📞 Contato](#-contato)
+
+---
+
+## 📘 Sobre o Repositório
+
+Este repositório acompanha minha evolução como **desenvolvedor Front-End**.  
+Aqui eu documento:
+
+- Minhas anotações de estudo
+- Códigos de treino
+- Exercícios das aulas
+- Testes com **HTML**, **CSS** e **JavaScript**
+- Pequenos projetos pessoais
+
+---
+
+## 📂 Estrutura de Pastas
+
+- [Background e Colors](/BackGround%20e%20Colors/)
+- [Box Model](/Box%20Model/)
+- [Cinema](/Cinema/)
+- [Estilos do Browser](/Estilos%20do%20%20Browser/)
+- [web](/web/)
+- [README](/README.md/)
+
+> A estrutura ainda vai crescer conforme os estudos avançarem.
+
+---
+
+## 📚 Anotações Importantes
+
+---
+
+# 🔸 Fundamentos de HTML
+
+### **📌 Tags Essenciais**
+
+- **`<div>` — contêiner genérico**
+
+  ```html
+  <div></div>
+  ```
+
+  Usado para estruturar blocos e layouts.
+
+---
+
+### **📌 Atributos**
+
+Principais atributos fundamentais:
+
+- **`id` — identifica um elemento único**
+
+  ```html
+  <div id="menu"></div>
+  ```
+
+- **`class` — agrupa elementos**
+
+  ```html
+  <p class="descricao"></p>
+  ```
+
+- **`src` — caminho de imagem/script**
+
+  ```html
+  <img src="foto.png" />
+  ```
+
+- **`href` — usado em links**
+
+  ```html
+  <a href="https://google.com">Google</a>
+  ```
+
+- **`alt` — descrição de imagem**
+
+  ```html
+  <img src="foto.png" alt="Foto de perfil" />
+  ```
+
+- **`type` — define tipo do input**
+
+  ```html
+  <input type="text" />
+  ```
+
+- **`title` — dica ao passar o mouse**
+
+  ```html
+  <button title="Enviar formulário">Enviar</button>
+  ```
+
+---
+
+### **📌 Estrutura Base da Página**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Título da Página</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!-- Conteúdo aqui -->
+  </body>
+</html>
+```
+
+---
+
+# 🔸 Fundamentos de CSS
+
+### 🎯 **Seletores**
+
+- **Seletor universal `*`:**
+
+  ```css
+  * {
+    box-shadow: inset 0 0 0 1px rgba(255, 0, 0, 0.5);
+  }
+  ```
+
+  Usado para visualizar os limites de todos os elementos — excelente para depuração.
+
+---
+
+### 🎨 **Estilos do Navegador (User Agent Stylesheet)**
+
+O navegador aplica estilos padrões:
+
+- `<a>` → azul + sublinhado
+- `<button>` → padding, fundo e borda automáticos
+- `<h1>` → fonte grande
+- `<p>` → margens próprias
+
+Por isso resetar estilos ou sobrescrever é tão comum.
+
+---
+
+### 🧬 **Herança (inherit)**
+
+Propriedades que **herdam**:
+
+- `color`
+- `font-family`
+- `line-height`
+
+Propriedades que **não herdam**:
+
+- `background`
+- `border`
+- `width`, `height`
+
+Códigos:
+
+```css
+body {
+  color: seagreen;
+}
+
+a {
+  color: inherit;
+}
+```
+
+---
+
+### 🔘 **Comportamento do `<button>`**
+
+O botão NÃO herda quase nada — pega o estilo padrão do navegador.
+
+Para deixá-lo “cru”:
+
+```css
+button {
+  color: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+}
+```
+
+---
+
+### 📦 Flexbox
+
+_(Adicionar quando estudar)_
+
+### 🟦 Grid Layout
+
+_(Adicionar quando estudar)_
+
+### 📱 Responsividade
+
+_(Adicionar futuramente)_
+
+---
+
+# 🔸 Fundamentos de JavaScript
+
+- Variáveis
+- Funções
+- DOM
+- Arrays e Objetos
+
+> (Vou preencher conforme estudo.)
+
+---
+
+# 🔧 Comandos Git Essenciais
+
+### **Inicializar o Git**
+
+```bash
+git init
+```
+
+### **Adicionar arquivos**
+
+```bash
+git add .
+```
+
+### **Criar commit**
+
+```bash
+git commit -m "mensagem"
+```
+
+### **Enviar para o GitHub (primeira vez)**
+
+```bash
+git push -u origin main
+```
+
+### **Enviar novas atualizações**
+
+```bash
+git push
+```
+
+### **Baixar atualizações**
+
+```bash
+git pull
+```
+
+### **Ver status**
+
+```bash
+git status
+```
+
+---
+
+# 🚀 Fluxo de Trabalho com Git
+
+- **Alterar algo**
+
+  ```bash
+  git add .
+  ```
+
+- **Registrar**
+
+  ```bash
+  git commit -m "descrição"
+  ```
+
+- **Enviar**
+
+  ```bash
+  git push
+  ```
+
+- **Atualizar local**
+
+  ```bash
+  git pull
+  ```
+
+---
+
+# ✨ Boas Práticas de Commit
+
+### ❌ Evite:
+
+```bash
+git commit -m "aaa"
+git commit -m "teste"
+git commit -m "arrumei"
+```
+
+### ✔️ Prefira:
+
+```bash
+git commit -m "Adiciona seção de HTML semântico"
+git commit -m "Corrige bug no menu responsivo"
+```
+
+---
+
+# 👣 Próximos Passos
+
+- 🖌️ Criar READMEs individuais por projeto
+- ➕ Adicionar exercícios de Flexbox
+- ✍️ Estudar e anotar Grid Layout
+- 📖 Criar mini projetos com JavaScript
+- 📸 Adicionar GIFs de demonstração dos projetos
+
+---
+
+# 📞 Contato
+
+📱 (11) 95682-5748  
+📧 Enzo.lemos05@gmail.com  
+🔗 https://www.linkedin.com/in/enzo-lemos-599530270/
