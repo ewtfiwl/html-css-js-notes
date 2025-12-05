@@ -39,15 +39,12 @@ Aqui eu documento:
 
 ## 📂 Estrutura de Pastas
 
-```
-📁 Projetos Front-End
- ├── 📂 BackGround e Colors
- ├── 📂 Box Model
- ├── 📂 Cinema
- ├── 📂 Estilos do Browser
- ├── 📂 web
- └── 📄 README.md
-```
+- [Background e Colors](/BackGround%20e%20Colors/)
+- [Box Model](/Box%20Model/)
+- [Cinema](/Cinema/)
+- [Estilos do Browser](/Estilos%20do%20%20Browser/)
+- [web](/web/)
+- [README](/README.md/)
 
 > Essa estrutura vai crescer conforme eu evoluir nos estudos.
 
