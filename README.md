@@ -245,54 +245,52 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
     git status
     ```
 
----
+  ***
 
-### 🚀 Fluxo de Trabalho com Git
-
-- **Comandos:**
+  ## 🚀 Fluxo de Trabalho com Git
 
   - **Alterar algo:**
 
-  ```c#
-  git add .
-  ```
+    ```c#
+    git add .
+    ```
 
-- **Registrar alteração:**
+  - **Registrar alteração:**
 
-  ```c#
+    ```c#
     git commit -m "descrição"
-  ```
+    ```
 
-- **Enviar pro GitHub:**
+  - **Enviar pro GitHub:**
 
-  ```c#
-  git push
-  ```
+    ```c#
+    git push
+    ```
 
-- **Atualizar projeto local:**
+  - **Atualizar projeto local:**
 
-  ```c#
-  git pull
-  ```
+    ```c#
+    git pull
+    ```
 
----
+  ***
 
-### ✨ Boas Práticas de Commit
+  ### ✨ Boas Práticas de Commit
 
-- ❌ Evite:
+  - ❌ Evite:
 
-  ```c#
-  git commit -m "aaa"
-  git commit -m "teste"
-  git commit -m "arrumei"
-  ```
+    ```c#
+    git commit -m "aaa"
+    git commit -m "teste"
+    git commit -m "arrumei"
+    ```
 
-- ✔️ Prefira:
+  - ✔️ Prefira:
 
-  ```c#
-  git commit -m "Adiciona seção de HTML semântico"
-  git commit -m "Corrige bug no menu responsivo"
-  ```
+    ```c#
+    git commit -m "Adiciona seção de HTML semântico"
+    git commit -m "Corrige bug no menu responsivo"
+    ```
 
 ---
 
