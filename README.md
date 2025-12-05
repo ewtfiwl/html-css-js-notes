@@ -203,7 +203,6 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
   ## 🔧 Comandos Git Essenciais
 
-  - Comandos:
   - **Inicializar o git**
 
     ```c#
@@ -250,8 +249,9 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
 ### 🚀 Fluxo de Trabalho com Git
 
-- Comandos:
-- **Alterar algo:**
+- **Comandos:**
+
+  - **Alterar algo:**
 
   ```c#
   git add .
