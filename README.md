@@ -203,94 +203,96 @@ _Isso remove os estilos padrão e passa a usar a cor do elemento pai._
 
   ## 🔧 Comandos Git Essenciais
 
-  ### 🔹 Inicializar o Git
+  - Comandos:
+  - **Inicializar o git**
 
-```bash
-git init
-```
+    ```c#
+    git init
+    ```
 
-### 🔹 Adicionar arquivos ao commit
+  - **Adicionar arquivos ao commit**
 
-```bash
-git add .
-```
+    ```c#
+    git add .
+    ```
 
-### 🔹 Criar um commit
+  - **Criar um commit**
 
-```bash
-git commit -m "mensagem"
-```
+    ```c#
+    git commit -m "mensagem"
+    ```
 
-### 🔹 Enviar para o GitHub (primeira vez)
+  - **Enviar para o GitHub (primeira vez)**
 
-```bash
-git push -u origin main
-```
+    ```c#
+    git push -u origin main
+    ```
 
-### 🔹 Enviar atualizações
+  - **Enviar atualizações**
 
-```bash
-git push
-```
+    ```c#
+    git push
+    ```
 
-### 🔹Baixar atualizações
+  - **Baixar atualizações**
 
-```bash
-git pull
-```
+    ```c#
+    git pull
+    ```
 
-### 🔹Ver status do que foi modificado
+  - **Ver status do que foi modificado**
 
-```bash
-git status
-```
+    ```c#
+    git status
+    ```
 
 ---
 
 ### 🚀 Fluxo de Trabalho com Git
 
+- Comandos:
 - **Alterar algo:**
 
-```bash
-git add .
-```
+  ```c#
+  git add .
+  ```
 
 - **Registrar alteração:**
 
-```bash
-  git commit -m "descrição"
-```
+  ```c#
+    git commit -m "descrição"
+  ```
 
 - **Enviar pro GitHub:**
 
-```bash
+  ```c#
   git push
-```
+  ```
 
 - **Atualizar projeto local:**
 
-```bash
+  ```c#
   git pull
-```
+  ```
 
 ---
 
 ### ✨ Boas Práticas de Commit
 
-❌ Evite:
+- ❌ Evite:
 
-```bash
-git commit -m "aaa"
-git commit -m "teste"
-git commit -m "arrumei"
-```
+  ```c#
+  git commit -m "aaa"
+  git commit -m "teste"
+  git commit -m "arrumei"
+  ```
 
-✔️ Prefira:
+- ✔️ Prefira:
 
-```bash
-git commit -m "Adiciona seção de HTML semântico"
-git commit -m "Corrige bug no menu responsivo"
-```
+  ```c#
+  git commit -m "Adiciona seção de HTML semântico"
+  git commit -m "Corrige bug no menu responsivo"
+  ```
 
 ---
 
