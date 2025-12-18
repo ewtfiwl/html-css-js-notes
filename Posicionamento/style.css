@@ -1,0 +1,15 @@
+span,
+a,
+strong {
+  border: 1px, solid rgba(0, 0, 0, 1);
+}
+a {
+  padding: 20px;
+  display: inline-block;
+  margin: 10px;
+}
+div,
+h1,
+p {
+  border: 1px, solid rgba(255, 0, 0, 0.5);
+}
