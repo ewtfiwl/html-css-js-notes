@@ -108,7 +108,7 @@ _Transforma o link em botão visual._
 
 ## 🔗 Links úteis
 
-[Repositório principal de estudos](https://github.com/ewtfiwl/html-css-js-notes/)  
-[Voltar para a pasta Box Model](/Box%20Model/)
+🔗 [Repositório principal de estudos](https://github.com/ewtfiwl/html-css-js-notes/)  
+📂 [Voltar para a pasta Box Model](/Box%20Model/)
 
 ---
