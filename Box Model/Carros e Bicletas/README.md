@@ -1,5 +1,3 @@
-- 🚗 [Carros e Bicicletas — HTML + CSS](./Box%20Model/carros-e-bicicletas/)
-
 # 🚗 Carros e Bicicletas
 
 Projeto criado para praticar **HTML e CSS**, focando em:
