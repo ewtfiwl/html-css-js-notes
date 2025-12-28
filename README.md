@@ -18,6 +18,7 @@ Repositório criado para organizar meus estudos de **Front-End.**
 
 - [📘 Sobre o Repositório](#-sobre-o-repositório)
 - [📂 Estrutura de Pastas](#-estrutura-de-pastas)
+- [🚗 Projetos](#-projetos)
 - [📚 Anotações Importantes](#-anotações-importantes)
 - [🔧 Comandos Git Essenciais](#-comandos-git-essenciais)
 - [🚀 Fluxo de Trabalho com Git](#-fluxo-de-trabalho-com-git)
@@ -52,6 +53,17 @@ Aqui eu documento:
 - [README](/README.md/)
 
 > Essa estrutura vai crescer conforme eu evoluir nos estudos.
+
+---
+
+## 🚗 Projetos
+
+### Carros e Bicicletas
+
+Mini-projeto para praticar **HTML e CSS**, focando em Box Model, cards, links estilizados e organização visual.
+
+- Pasta: [Box Model/Carros e Bicicletas](./Box%20Model/Carros%20e%20Bicicletas/)
+- [README do projeto](./Box%20Model/Carros%20e%20Bicicletas/README.md)
 
 ---
 
