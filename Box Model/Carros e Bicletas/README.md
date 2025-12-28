@@ -31,7 +31,7 @@ body {
 }
 ```
 
-_Cria um card com fundo escuro, espaçamento interno e cantos arredondados._
+_Define a fonte padrão e cria espaçamento geral._
 
 ### .item
 
