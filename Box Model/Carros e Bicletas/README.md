@@ -30,3 +30,56 @@ body {
   margin: 50px;
 }
 ```
+
+_Cria um card com fundo escuro, espaçamento interno e cantos arredondados._
+
+### .item
+
+```css
+.item {
+  background: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+```
+
+_Cria um card com fundo escuro, espaçamento interno e cantos arredondados._
+
+### span
+
+```css
+span {
+  color: #febe01;
+}
+```
+
+_Destaca valores importantes como preço, ano e quilometragem._
+
+### a
+
+```css
+a {
+  display: inline-block;
+  background: #febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+```
+
+_Transforma o link em botão visual._
+
+## 🧠 Conceitos praticados
+
+- Box Model (margin, padding)
+
+- Seletores de classe
+
+- Estilização de links
+
+- Cores e contraste
+
+- Organização visual
