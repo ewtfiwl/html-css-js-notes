@@ -11,7 +11,9 @@ Projeto criado para praticar **HTML e CSS**, focando em:
 
 ## 📸 Screenshot do Projeto
 
-<img src="Captura de tela 2025-12-28 145317.png" width="600" />
+<p align="center">
+  <img src="Captura de tela 2025-12-28 145317.png" width="600" />
+</p>
 
 > Visual do projeto aberto no navegador.
 
