@@ -95,3 +95,20 @@ _Transforma o link em botão visual._
 - Organização visual
 
 ---
+
+## ▶️ Como abrir
+
+- Abra a pasta do projeto no seu computador.
+
+- Abra o arquivo index.html no navegador.
+
+- Visualize o layout com os cards de carros e bicicletas.
+
+---
+
+## 🔗 Links úteis
+
+[Repositório principal de estudos](https://github.com/ewtfiwl/html-css-js-notes/)
+[Voltar para a pasta Box Model](/Box%20Model/)
+
+---
