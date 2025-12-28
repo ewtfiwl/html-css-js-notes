@@ -11,7 +11,7 @@ Projeto criado para praticar **HTML e CSS**, focando em:
 
 ## 📸 Screenshot do Projeto
 
-<img src="c:\Users\enzol\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-12-28 145317.png" width="600" />
+<img src="Captura de tela 2025-12-28 145317.png" width="600" />
 
 > Visual do projeto aberto no navegador.
 
