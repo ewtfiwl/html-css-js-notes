@@ -8,9 +8,9 @@
 
 # 📘 HTML / CSS / JS — Notes & Studies
 
-Repositório criado para organizar meus estudos de **Front-End.**  
- Aqui vou guardar exemplos, exercícios, testes, anotações importantes e tudo que for aprendendo no caminho.  
- Criei este repositório para organizar meus estudos de **front-end**, experimentar novas ideias e documentar minha evolução como **desenvolvedor**.
+Repositório criado para organizar meus estudos de **Front-End**.
+
+Aqui guardo exemplos, exercícios, testes, anotações importantes e pequenos projetos, documentando minha evolução como desenvolvedor.
 
 ---
 
@@ -48,11 +48,12 @@ Aqui eu documento:
 - [Box Model](/Box%20Model/)
 - [Cinema](/Cinema/)
 - [Estilos do Browser](/Estilos%20do%20%20Browser/)
+- [img](/img/)
 - [Posicionamento](/Posicionamento/)
 - [web](/web/)
-- [README](/README.md/)
+- [README Principal](/README.md/)
 
-> Essa estrutura vai crescer conforme eu evoluir nos estudos.
+> Cada pasta de estudo possui seu próprio README com anotações específicas da aula.
 
 ---
 
