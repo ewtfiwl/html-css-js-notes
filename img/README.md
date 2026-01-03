@@ -112,7 +112,9 @@ Por que usar isso como padrão?
 
   - Evita o comportamento inline padrão das imagens
 
-## 📐 Controle de Tamanho com Classe
+  ***
+
+## 🎚️ Controle de Tamanho com Classe
 
 Mesmo usando um padrão global, é comum controlar o tamanho de imagens específicas usando classes.
 
@@ -149,6 +151,8 @@ Ao aplicar uma classe (`.foto`) com width apenas na imagem menor:
 - A proporção é mantida
 
 - A deformação visual é reduzida
+
+---
 
 ## 🧠 Boas Práticas
 
