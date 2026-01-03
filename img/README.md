@@ -52,6 +52,10 @@ Exemplo:
 }
 ```
 
+> Para alterar a cor com `fill`, o SVG precisa permitir estilização via CSS (ex: SVG inline ou preparado para isso).
+
+_Isso permite que o SVG seja tratado como um elemento do layout, podendo ter cor, tamanho e efeitos alterados diretamente pelo CSS, sem a necessidade de editar o arquivo original._
+
 ---
 
 ## 📐 Redimensionando imagens sem perder qualidade
@@ -60,12 +64,14 @@ Uma boa prática é controlar o tamanho da imagem via CSS, e não alterar o arqu
 
 Exemplo:
 
-```cs
- img {
+```css
+img {
   max-width: 100%;
   height: auto;
 }
 ```
+
+> O `height: auto` normalmente não é necessário quando a imagem mantém a proporção, mas pode ser usado em casos específicos.
 
 Isso permite que a imagem:
 
@@ -90,21 +96,21 @@ img {
 
 Por que usar isso como padrão?
 
-- max-width: 100%
+- `max-width: 100%`
 
-- Impede que a imagem ultrapasse o tamanho do elemento pai
+  - Impede que a imagem ultrapasse o tamanho do elemento pai
 
-- Mantém a proporção original da imagem
+  - Mantém a proporção original da imagem
 
-- Evita quebra de layout em telas menores
+  - Evita quebra de layout em telas menores
 
-- display: block
+- `display: block`
 
-- Remove espaços indesejados abaixo da imagem
+  - Remove espaços indesejados abaixo da imagem
 
-- Facilita o controle de espaçamento com margin
+  - Facilita o controle de espaçamento com margin
 
-- Evita o comportamento inline padrão das imagens
+  - Evita o comportamento inline padrão das imagens
 
 ## 📐 Controle de Tamanho com Classe
 
@@ -136,7 +142,7 @@ Quando ambas recebem o mesmo tamanho via layout:
 
 - A imagem maior se adapta melhor ao redimensionamento
 
-Ao aplicar uma classe (.foto) com width apenas na imagem menor:
+Ao aplicar uma classe (`.foto`) com width apenas na imagem menor:
 
 - O tamanho fica controlado
 
@@ -158,7 +164,7 @@ Ao aplicar uma classe (.foto) com width apenas na imagem menor:
 
 ## 🚀 Conclusão
 
-- Use um padrão global para imagens (img { max-width: 100%; display: block; })
+- Use um padrão global para imagens (`img { max-width: 100%; display: block; }`)
 
 - Controle tamanhos específicos com classes
 
