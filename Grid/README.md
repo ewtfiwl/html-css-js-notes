@@ -235,7 +235,7 @@ justify-content: space-evenly;
 
 Diferenças entre eles:
 
-- `space-between`
+`space-between`
 
 - Espaço apenas entre os itens
 
