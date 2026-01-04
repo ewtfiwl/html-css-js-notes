@@ -16,15 +16,15 @@ O layout é composto por:
 
 - Vários cards de produto (`.item`)
 
-- Cada card contém:
+  - Cada card contém:
 
-- Nome do produto
+  - Nome do produto
 
-- Preço
+  - Preço
 
-- Descrição
+  - Descrição
 
-- Botão de compra
+  - Botão de compra
 
 ---
 
