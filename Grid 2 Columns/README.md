@@ -56,7 +56,7 @@ grid-column: 1 / 3;
 
 👉 Isso faz imagem, descrição e botão ocuparem a largura total do Grid.
 
-## 🔁 Usando -1 para ir até o final
+## 🔁 Usando `-1` para ir até o final
 
 Quando não sabemos quantas colunas existem, ou elas são dinâmicas, usamos:
 
@@ -213,7 +213,7 @@ Resumo importante:
 | O que você quer mover | Propriedade |
 | --------------------- | --------------------------- |
 | Caixa do elemento | `grid-column`, `place-self` |
-| Texto dentro da caixa | `text-align`, |
+| Texto dentro da caixa | `text-align` |
 
 Exemplo completo:
 
@@ -242,6 +242,6 @@ Exemplo completo:
 
 - `place-self` serve para itens individuais
 
-- Caixa e conteúdo não são a mesma coisa
+- Caixa e conteúdo **não são a mesma coisa**
 
 ---
