@@ -2,7 +2,7 @@
 
 Continuação do estudo de **CSS Grid Layout**, agora focando em **grid-column**, **span**, alinhamento de itens e a diferença entre **conteúdo** vs **caixa**.
 
-🧱 Estrutura Base do Grid
+## 🧱 Estrutura Base do Grid
 
 O layout utiliza duas colunas iguais:
 
@@ -64,7 +64,8 @@ Quando não sabemos quantas colunas existem, ou elas são dinâmicas, usamos:
 grid-column: 1 / -1;
 ```
 
-📌 O `-1` sempre representa a última linha do Grid, independentemente da quantidade de colunas.
+📌 O `-1` sempre representa a última linha do Grid (final das colunas),
+independentemente da quantidade de colunas.
 
 ✔ Mais seguro
 ✔ Mais flexível
@@ -204,7 +205,7 @@ Extra 👽
 
 - Também é possível usar `text-align: end`, para a mesma função do `text-align: right`, mas ainda é experimental
 
-- Portanto prefira: `text align center`, para maior compatibilidade com todos os navegadores
+- Portanto prefira: `text-align: right`, para maior compatibilidade com todos os navegadores
 
 ## 🧠 Alinhar a Caixa ≠ Alinhar o Texto
 
@@ -212,7 +213,7 @@ Resumo importante:
 | O que você quer mover | Propriedade |
 | --------------------- | --------------------------- |
 | Caixa do elemento | `grid-column`, `place-self` |
-| Texto dentro da caixa | `text-align`, `center` |
+| Texto dentro da caixa | `text-align`, |
 
 Exemplo completo:
 
