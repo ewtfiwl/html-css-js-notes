@@ -154,6 +154,187 @@ Vantagens de usar Grid dentro do `.item`:
 
 ---
 
+## 📏 Alinhamento e Distribuição com `justify-content`
+
+O `justify-content` controla como as colunas (ou linhas) do Grid são distribuídas no eixo principal, quando existe espaço sobrando.
+
+Valores básicos
+
+```css
+justify-content: start;
+justify-content: center;
+justify-content: end;
+```
+
+- `start` → itens ficam no início do container
+
+- `center` → itens ficam centralizados
+
+- `end` → itens ficam no final do container
+
+📌 Importante:
+O `justify-content` só funciona quando há espaço livre no container.
+Se o Grid já ocupa todo o espaço disponível, não há o que distribuir.
+
+## 📐 Uso de `auto` nas Colunas
+
+Em vez de definir larguras fixas (`px`) ou fracionadas (`fr`), é possível usar `auto`:
+
+```css
+grid-template-columns: auto auto;
+```
+
+O que o `auto` faz?
+
+- O tamanho da coluna se adapta ao conteúdo interno
+
+- Textos maiores ocupam mais espaço
+
+- Textos menores ocupam menos espaço
+
+- Mesmo assim, o layout permanece equilibrado
+
+📌 Exemplo prático da aula:
+
+- Alguns cards tinham descrições maiores
+
+- Outros tinham textos menores
+
+- Mesmo assim, os blocos se ajustaram automaticamente
+
+- Nenhum layout quebrou ou ficou desalinhado
+
+👉 O `auto` respeita o conteúdo e distribui o espaço de forma inteligente.
+
+## ⚠️ Por que justify-content não funciona com `1fr` `1fr`?
+
+Quando usamos:
+
+```css
+grid-template-columns: 1fr 1fr;
+```
+
+- As colunas sempre ocupam 100% do espaço disponível
+
+- Não sobra espaço para redistribuição
+
+- Por isso, `justify-content` não gera efeito visível
+
+📌 Resumo:
+`justify-content` só funciona quando o Grid não está totalmente esticado.
+
+## 📦 Espaçamentos com `justify-content`
+
+Além de `start`, `center` e `end`, existem valores específicos para espaçamento:
+
+```css
+justify-content: space-between;
+justify-content: space-around;
+justify-content: space-evenly;
+```
+
+Diferenças entre eles:
+
+- `space-between`
+
+- Espaço apenas entre os itens
+
+- Itens ficam colados nas extremidades
+
+`space-around`
+
+- Espaço ao redor de cada item
+
+- Bordas têm menos espaço que o centro
+
+`space-evenly`
+
+- Espaços iguais entre itens e extremidades
+
+- Distribuição mais equilibrada
+
+📌 A escolha depende do layout e do espaçamento desejado.
+
+## 📐 Alinhamento Vertical com `align-content`
+
+O `align-content` controla o alinhamento no eixo vertical do Grid.
+
+```css
+align-content: start;
+align-content: center;
+align-content: end;
+```
+
+**Por que às vezes não acontece nada**?
+
+Por padrão:
+
+- O Grid ocupa apenas o espaço do conteúdo
+
+- Não sobra espaço vertical para alinhar
+
+👉 Sem espaço sobrando, não **há alinhamento visível**.
+
+Quando funciona?
+
+Ao definir uma altura maior para o container:
+
+```css
+.grid {
+  height: 800px;
+}
+```
+
+Agora sim:
+
+- `align-content: end` joga o conteúdo para baixo
+
+- center, `space-around`, `space-evenly` passam a funcionar
+
+📌 Regra importante:
+Para alinhar conteúdo (horizontal ou vertical), sempre precisa **existir espaço livre**.
+
+## 🧩 Atalho com `place-content`
+
+O `place-content` é um atalho para `justify-content` + `align-content`.
+
+```css
+place-content: space-evenly space-evenly;
+```
+
+Equivale a:
+
+```css
+justify-content: space-evenly;
+align-content: space-evenly;
+```
+
+Uso com um único valor
+
+```css
+place-content: center;
+```
+
+- Aplica o valor tanto no eixo horizontal quanto no vertical
+
+📌 Facilita o código e deixa o CSS mais limpo.
+
+## 🧠 Conceitos Importantes Aprendidos
+
+- Alinhamento só funciona quando há espaço sobrando
+
+- `auto` respeita o tamanho do conteúdo
+
+- `fr` ocupa todo o espaço disponível
+
+- `justify-content` → eixo horizontal
+
+- `align-content` → eixo vertical
+
+- `place-content` é apenas um atalho
+
+---
+
 ## 🚀 Próximos Passos
 
 Este README cobre **apenas a introdução ao Grid**.
@@ -167,8 +348,6 @@ Conteúdos que ainda serão estudados e adicionados futuramente:
 - `auto-fit` e `auto-fill`
 
 - `minmax()`
-
-- Alinhamento (`align` / `justify`)
 
 - Layouts responsivos com Grid
 
