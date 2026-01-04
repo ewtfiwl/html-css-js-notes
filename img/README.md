@@ -201,7 +201,7 @@ O **Squoosh** é uma ferramenta online para otimizar imagens para web.
 - Ajuste de qualidade, tamanho e resolução
 - Ideal para preparar imagens antes de subir no projeto
 
-📌 Sempre que possível, otimizar a imagem **antes** de utilizá-la no projeto.
+> Sempre que possível, otimizar a imagem **antes** de utilizá-la no projeto.
 
 🔗 https://squoosh.app
 
