@@ -229,16 +229,18 @@ Exemplo completo:
 
 ## 🧠 Conceitos-Chave Aprendidos
 
-`grid-column` controla onde o item vive no Grid
+- `grid-column` controla onde o item vive no Grid
 
-`span` expande a partir da posição inicial
+- `span` expande a partir da posição inicial
 
-`-1` sempre representa o final do Grid
+- `-1` sempre representa o final do Grid
 
-`align-items` e `justify-items` alinham itens
+- `align-items` e `justify-items` alinham itens
 
-`place-items` é apenas um atalho
+- `place-items` é apenas um atalho
 
-`place-self` serve para itens individuais
+- `place-self` serve para itens individuais
 
-Caixa e conteúdo não são a mesma coisa
+- Caixa e conteúdo não são a mesma coisa
+
+---
