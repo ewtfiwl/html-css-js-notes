@@ -138,7 +138,7 @@ Vantagens de usar Grid dentro do `.item`:
 
 ## 🧠 Conceitos Importantes Aprendidos
 
-Grid resolve problemas de layout que seriam difíceis com outras abordagens
+- Grid resolve problemas de layout que seriam difíceis com outras abordagens
 
 - `fr` é preferível a `%` em layouts com colunas e espaçamento
 
@@ -173,6 +173,39 @@ Conteúdos que ainda serão estudados e adicionados futuramente:
 - Layouts responsivos com Grid
 
 - Comparação entre Grid e Flexbox
+
+---
+
+## 🧰 Ferramentas Visuais e Guias de CSS Grid
+
+Durante o estudo de **CSS Grid Layout**, foram utilizados guias visuais que mostram o comportamento do Grid de forma prática e interativa.
+
+Esses materiais ajudam a entender melhor:
+
+- Distribuição de colunas e linhas
+
+- Uso de `fr`, `auto`, `minmax()`
+
+- `grid-template-areas`
+
+- Espaçamentos (`gap`)
+
+- Alinhamento de itens e containers
+
+## 📘 Guias Utilizados
+
+- Guia CSS Grid Layout — Origamid
+  https://www.origamid.com/projetos/grid/
+
+_Guia visual e interativo que demonstra, na prática, como cada propriedade do Grid afeta o layout._
+
+- Guia Completo de CSS Grid Layout — Origamid
+  https://www.origamid.com/projetos/css-grid-layout-guia-completo/
+
+_Material de referência completo para consulta durante o desenvolvimento e estudo de Grid._
+
+📌 Observação:
+No momento, apenas os guias da Origamid estão sendo utilizados como apoio direto nas aulas e nos exercícios práticos.
 
 ---
 
