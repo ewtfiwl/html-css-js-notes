@@ -65,7 +65,7 @@ Aqui eu documento:
 
 Mini-projeto para praticar **HTML e CSS**, focando em Box Model, cards, links estilizados e organização visual.
 
-- Pasta: [Box Model/Carros e Bicicletas](./Box%20Model/Carros%20e%20Bicletas/)
+- Pasta: [Box Model/Carros e Bicicletas](./Box%20Model/Carros%20e%20Bicicletas/)
 - [README do projeto](./Box%20Model/Carros%20e%20Bicletas/README.md)
 
 ---
