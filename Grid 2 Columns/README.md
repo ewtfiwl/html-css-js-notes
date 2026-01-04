@@ -67,8 +67,8 @@ grid-column: 1 / -1;
 📌 O `-1` sempre representa a última linha do Grid (final das colunas),
 independentemente da quantidade de colunas.
 
-✔ Mais seguro
-✔ Mais flexível
+✔ Mais seguro  
+✔ Mais flexível  
 ✔ Muito usado em layouts reais
 
 ## 📏 Expandindo Colunas com span
@@ -88,7 +88,7 @@ grid-column: span 3;
 grid-column: span 4;
 ```
 
-📌 O comportamento sempre depende da quantidade de colunas disponíveis.
+_📌 O comportamento sempre depende da quantidade de colunas disponíveis._
 
 ## ▶️ Começar de uma coluna específica + span
 
