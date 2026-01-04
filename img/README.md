@@ -166,6 +166,49 @@ Ao aplicar uma classe (`.foto`) com width apenas na imagem menor:
 
 ---
 
+## 🌐 Fontes de Imagens Gratuitas
+
+### Unsplash
+
+O **Unsplash** é uma plataforma que disponibiliza imagens gratuitas para uso pessoal e comercial.
+
+- Não exige atribuição obrigatória (créditos)
+- Permite edição e adaptação das imagens
+- Ideal para projetos pessoais, estudos e portfólio
+
+🔗 https://unsplash.com
+
+📌 **Uso comum:** baixar imagens para sites, landing pages, projetos de estudo e portfólio.
+
+---
+
+## ⚡ Otimização de Imagens para Web
+
+Em projetos web, **raramente é necessário utilizar imagens com mais de 1MB**.
+
+- Imagens muito grandes aumentam o tempo de carregamento
+- Prejudicam a experiência do usuário
+- Afetam performance e SEO
+
+Na maioria dos casos, é possível trabalhar com imagens **bem abaixo de 1MB**, mantendo boa qualidade visual.
+
+### Ferramenta recomendada: Squoosh
+
+O **Squoosh** é uma ferramenta online para otimizar imagens para web.
+
+- Compressão sem perda perceptível de qualidade
+- Permite escolher formato (JPEG, PNG, WebP, AVIF)
+- Ajuste de qualidade, tamanho e resolução
+- Ideal para preparar imagens antes de subir no projeto
+
+📌 Sempre que possível, otimizar a imagem **antes** de utilizá-la no projeto.
+
+🔗 https://squoosh.app
+
+📌 **Uso comum:** Utilizado para otimizar imagens antes de subir para o site, reduzindo o tamanho do arquivo (KB/MB) sem perda perceptível de qualidade, melhorando o tempo de carregamento, performance e SEO da aplicação.
+
+---
+
 ## 🚀 Conclusão
 
 - Use um padrão global para imagens (`img { max-width: 100%; display: block; }`)
