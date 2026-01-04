@@ -335,6 +335,8 @@ place-content: center;
 
 ---
 
+---
+
 ## 🚀 Próximos Passos
 
 Este README cobre a introdução ao Grid e os primeiros conceitos de alinhamento.
