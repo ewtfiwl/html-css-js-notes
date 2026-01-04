@@ -319,7 +319,7 @@ place-content: center;
 
 📌 Facilita o código e deixa o CSS mais limpo.
 
-## 🧠 Conceitos Importantes Aprendidos
+## 🧠 Conceitos de Alinhamento Aprendidos
 
 - Alinhamento só funciona quando há espaço sobrando
 
@@ -337,7 +337,7 @@ place-content: center;
 
 ## 🚀 Próximos Passos
 
-Este README cobre **apenas a introdução ao Grid**.
+Este README cobre a introdução ao Grid e os primeiros conceitos de alinhamento.
 
 Conteúdos que ainda serão estudados e adicionados futuramente:
 
