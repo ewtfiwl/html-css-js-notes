@@ -1,4 +1,4 @@
-## 📐 CSS Grid — Colunas, Itens e Alinhamento
+# CSS Grid — Colunas, Itens e Alinhamento
 
 Continuação do estudo de **CSS Grid Layout**, agora focando em **grid-column**, **span**, alinhamento de itens e a diferença entre **conteúdo** vs **caixa**.
 

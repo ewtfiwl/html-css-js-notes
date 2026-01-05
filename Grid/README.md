@@ -1,4 +1,4 @@
-### 📐 CSS Grid — Introdução e Fundamentos
+# CSS Grid — Introdução e Fundamentos
 
 Anotações iniciais sobre **CSS Grid Layout**, utilizando um exemplo de comércio eletrônico para entender comportamento de colunas, espaçamento e organização de elementos.
 
