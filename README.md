@@ -48,6 +48,8 @@ Aqui eu documento:
 - [Box Model](/Box%20Model/)
 - [Cinema](/Cinema/)
 - [Estilos do Browser](/Estilos%20do%20%20Browser/)
+- [Grid 2 Columns](/Grid%202%20Columns/)
+- [Grid 3 Template Rows](/Grid%203%20Template%20Rows/)
 - [Grid](/Grid/)
 - [Posicionamento](/Posicionamento/)
 - [Top, Right, Bottom, Left](/Top%2C%20Right%2C%20Bottom%2C%20Left/)
