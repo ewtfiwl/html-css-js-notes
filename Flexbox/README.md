@@ -1,4 +1,4 @@
-## 📦 Flexbox — Fundamentos, Comportamento e Comparação com Grid
+# 📦 Flexbox — Fundamentos, Comportamento e Comparação com Grid
 
 Introdução ao **Flexbox**, entendendo seu propósito, funcionamento, principais propriedades e como ele se diferencia do **CSS Grid**.
 
@@ -167,7 +167,7 @@ Se os itens usam `flex: 1`:
 
 ## 🆚 Flexbox vs Grid
 
-# Flexbox
+### Flexbox
 
 - Não possui conceito de colunas
 
@@ -175,7 +175,7 @@ Se os itens usam `flex: 1`:
 
 - Ideal para **componentes e layouts lineares**
 
-# Grid
+### Grid
 
 - Trabalha com linhas **e** colunas
 
@@ -203,7 +203,7 @@ Se os itens usam `flex: 1`:
 ✔ Não precisa definir número de colunas    
 
 ## 🧪 Código Final — Flex e Grid
-# HTML
+### HTML
 
 ```html
 <div class="flex">
@@ -221,7 +221,7 @@ Se os itens usam `flex: 1`:
 </div>
 ```
 
-# CSS
+### CSS
 
 ```css
 .flex {
