@@ -82,6 +82,8 @@ a {
 
 _Transforma o link em botão visual._
 
+---
+
 ## 🧠 Conceitos praticados
 
 - Box Model (margin, padding)
