@@ -347,23 +347,14 @@ place-content: center;
 
 ---
 
-## 🚀 Próximos Passos
+## ✅ Conteúdos estudados
 
-Este README cobre a introdução ao Grid e os primeiros conceitos de alinhamento.
-
-Conteúdos que ainda serão estudados e adicionados futuramente:
-
-- `grid-template-rows`
-
-- `grid-area`
-
-- `auto-fit` e `auto-fill`
-
-- `minmax()`
-
-- Layouts responsivos com Grid
-
-- Comparação entre Grid e Flexbox
+- [x] grid-template-rows
+- [x] grid-area
+- [x] auto-fit e auto-fill
+- [x] minmax()
+- [x] Layouts responsivos com Grid
+- [x] Comparação entre Grid e Flexbox
 
 ---
 
