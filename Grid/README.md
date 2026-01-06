@@ -1,4 +1,4 @@
-# CSS Grid — Introdução e Fundamentos
+# 📐 CSS Grid — Introdução e Fundamentos
 
 Anotações iniciais sobre **CSS Grid Layout**, utilizando um exemplo de comércio eletrônico para entender comportamento de colunas, espaçamento e organização de elementos.
 
@@ -176,6 +176,8 @@ justify-content: end;
 O `justify-content` só funciona quando há espaço livre no container.
 Se o Grid já ocupa todo o espaço disponível, não há o que distribuir.
 
+---
+
 ## 📐 Uso de `auto` nas Colunas
 
 Em vez de definir larguras fixas (`px`) ou fracionadas (`fr`), é possível usar `auto`:
@@ -206,6 +208,8 @@ O que o `auto` faz?
 
 👉 O `auto` respeita o conteúdo e distribui o espaço de forma inteligente.
 
+---
+
 ## ⚠️ Por que justify-content não funciona com `1fr` `1fr`?
 
 Quando usamos:
@@ -222,6 +226,8 @@ grid-template-columns: 1fr 1fr;
 
 📌 Resumo:
 `justify-content` só funciona quando o Grid não está totalmente esticado.
+
+---
 
 ## 📦 Espaçamentos com `justify-content`
 
@@ -254,6 +260,8 @@ Diferenças entre eles:
 - Distribuição mais equilibrada
 
 📌 A escolha depende do layout e do espaçamento desejado.
+
+---
 
 ## 📐 Alinhamento Vertical com `align-content`
 
@@ -294,6 +302,8 @@ Agora sim:
 📌 Regra importante:
 Para alinhar conteúdo (horizontal ou vertical), sempre precisa **existir espaço livre**.
 
+---
+
 ## 🧩 Atalho com `place-content`
 
 O `place-content` é um atalho para `justify-content` + `align-content`.
@@ -318,6 +328,8 @@ place-content: center;
 - Aplica o valor tanto no eixo horizontal quanto no vertical
 
 📌 Facilita o código e deixa o CSS mais limpo.
+
+---
 
 ## 🧠 Conceitos de Alinhamento Aprendidos
 
@@ -370,6 +382,8 @@ Esses materiais ajudam a entender melhor:
 - Espaçamentos (`gap`)
 
 - Alinhamento de itens e containers
+
+---
 
 ## 📘 Guias Utilizados
 
