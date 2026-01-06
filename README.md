@@ -48,6 +48,7 @@ Aqui eu documento:
 - [Box Model](/Box%20Model/)
 - [Cinema](/Cinema/)
 - [Estilos do Browser](/Estilos%20do%20%20Browser/)
+- [Flexbox](/Flexbox/)
 - [Grid 2 Columns](/Grid%202%20Columns/)
 - [Grid 3 Template Rows](/Grid%203%20Template%20Rows/)
 - [Grid](/Grid/)
