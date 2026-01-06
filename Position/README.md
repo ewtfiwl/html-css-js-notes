@@ -27,9 +27,9 @@ Quando precisamos de algo que **não siga esse fluxo** (ex: botão de cookies, e
 
 ## 📍 Position: fixed
 
-O `position: fixed` remove o elemento do fluxo normal e fixa sua posição em relação à **tela (viewport)**.    
+O `position: fixed` remove o elemento do fluxo normal e fixa sua posição em relação à **tela (viewport)**.
 
-Usado quando um elemento deve **permanecer visível na tela**, mesmo com scroll.   
+Usado quando um elemento deve **permanecer visível na tela**, mesmo com scroll.
 
 Exemplo clássico:
 
@@ -80,10 +80,9 @@ Essas propriedades só funcionam se o `position` for **diferente de** `static`:
 
 📌 Utilizando `left` e `right`, o elemento ocupa toda a largura disponível.
 
-⚠️ É possível usar `top` e `bottom` juntos, o que define a altura do elemento.    
+⚠️ É possível usar `top` e `bottom` juntos, o que define a altura do elemento.
 
-Porém, na prática, geralmente escolhe-se `top` OU `bottom` para evitar comportamentos inesperados.    
-
+Porém, na prática, geralmente escolhe-se `top` OU `bottom` para evitar comportamentos inesperados.
 
 ## 📦 Position: relative
 
@@ -107,7 +106,6 @@ top: 20px;
 
 - O deslocamento é apenas visual
 
-
 Valores comuns:
 
 - `20px`
@@ -127,7 +125,7 @@ O `absolute` **remove completamente o elemento do fluxo**.
 Exemplo básico:
 
 ```css
- .elemento {
+.elemento {
   position: absolute;
   top: 0px;
 }
