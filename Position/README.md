@@ -80,8 +80,10 @@ Essas propriedades só funcionam se o `position` for **diferente de** `static`:
 
 📌 Utilizando `left` e `right`, o elemento ocupa toda a largura disponível.
 
-⚠️ Mas não é possível usar top e bottom ao mesmo tempo para esticar verticalmente.  
-Sempre escolhe-se top OU bottom.
+⚠️ É possível usar `top` e `bottom` juntos, o que define a altura do elemento.    
+
+Porém, na prática, geralmente escolhe-se `top` OU `bottom` para evitar comportamentos inesperados.    
+
 
 ## 📦 Position: relative
 
@@ -101,7 +103,10 @@ top: 20px;
 
 - Se move **em relação a ele mesmo**
 
-- Sai parcialmente do fluxo visual
+- Continua ocupando seu espaço original no fluxo
+
+- O deslocamento é apenas visual
+
 
 Valores comuns:
 
@@ -122,7 +127,7 @@ O `absolute` **remove completamente o elemento do fluxo**.
 Exemplo básico:
 
 ```css
- {
+ .elemento {
   position: absolute;
   top: 0px;
 }
