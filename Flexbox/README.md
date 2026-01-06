@@ -44,6 +44,8 @@ Ao aplicar:
 
 📌 Todos os elementos filhos ficam **lado a lado automaticamente**.
 
+---
+
 ## 🎨 Estilização dos Itens
 
 ```css
@@ -56,6 +58,8 @@ h2 {
 ```
 
 📌 Assim como no Grid, o maior elemento influencia os outros.
+
+---
 
 ## 🔄 Quebra de Linha — `flex-wrap`
 
@@ -70,6 +74,8 @@ Quando o conteúdo não cabe mais no container:
 ✔ Permite que os itens quebrem para a próxima linha    
 ✔ Evita que o layout estoure   
 
+---
+
 ## ↔️ Alinhamento Horizontal — `justify-content`
 
 ```css
@@ -79,6 +85,8 @@ Quando o conteúdo não cabe mais no container:
 ```
 
 📌 Funciona **somente se houver espaço sobrando** no container.
+
+---
 
 ## ↕️ Alinhamento Vertical — `align-items`
 
@@ -94,6 +102,8 @@ Para que funcione:
 ```
 
 📌 `100vh` = 100% de Viewport Height/Altura da Viewport (tela).
+
+---
 
 ## 🌱 Distribuição de Espaço — `flex-grow`
 
@@ -123,6 +133,8 @@ Valores comuns:
 
 - `0` (muito usado)
 
+---
+
 ## 📉 Encolhimento — `flex-shrink`
 
 ```css
@@ -136,6 +148,8 @@ h2 {
 - `0` → não encolhe
 
 - `1` → comportamento padrão
+
+---
 
 ## ⚡ Atalho — `flex`
 
@@ -155,6 +169,8 @@ flex-basis: 0%;
 
 📌 Muito utilizado na prática.
 
+---
+
 ## ⚠️ Flex × Justify-Content
 
 Se os itens usam `flex: 1`:
@@ -164,6 +180,8 @@ Se os itens usam `flex: 1`:
 - ❌ `justify-content` não funciona
 
 👉 Para justificar conteúdo, não defina **flex-grow**.
+
+---
 
 ## 🆚 Flexbox vs Grid
 
@@ -183,6 +201,8 @@ Se os itens usam `flex: 1`:
 
 - Exige definição de colunas
 
+---
+
 ## 🔁 Simulando Flex com Grid
 
 ```css
@@ -200,7 +220,9 @@ Se os itens usam `flex: 1`:
 - `minmax(150px, auto)` → mínimo fixo, máximo flexível
 
 ✔ Layout responsivo    
-✔ Não precisa definir número de colunas    
+✔ Não precisa definir número de colunas  
+
+---
 
 ## 🧪 Código Final — Flex e Grid
 ### HTML
