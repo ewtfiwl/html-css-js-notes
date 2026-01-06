@@ -1,4 +1,4 @@
-# CSS Grid – Template Rows e Organização de Layout
+# 📐 CSS Grid – Template Rows e Organização de Layout
 
 Este projeto faz parte do estudo de **CSS Grid**, com foco na criação de layouts mais organizados, previsíveis e fáceis de manter.
 
