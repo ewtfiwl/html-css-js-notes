@@ -122,6 +122,8 @@ Se ajustarmos:
 
 O elemento `.index2` pode passar a ficar por cima de todos, inclusive de `.index1`.
 
+---
+
 ## 🧬 Ordem do HTML influencia
 
 Se mudarmos a ordem no HTML para:
@@ -273,6 +275,6 @@ Elementos filhos não ultrapassam o `z-index` do pai.
 📌 Position → exceções  
 📌 z-index → profundidade
 
-Cada ferramenta no seu lugar.
+_Cada ferramenta no seu lugar._
 
 ---
