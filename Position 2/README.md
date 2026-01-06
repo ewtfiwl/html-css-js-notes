@@ -7,7 +7,7 @@ Continuação do estudo sobre `position`, agora focando em **profundidade dos el
 ## 📚 Estrutura do Estudo de Position
 
 1. 📍 [CSS Position — Fluxo, Fixed, Relative e Absolute](/Position/README.md)
-2. 🧱 CSS Position — Parte 2: Profundidade, Ordem e z-index(este arquivo)
+2. 🧱 CSS Position — Parte 2: Profundidade, Ordem e z-index (este arquivo)
 
 ---
 
