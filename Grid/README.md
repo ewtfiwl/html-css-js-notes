@@ -6,6 +6,14 @@ Este conteúdo cobre apenas os fundamentos iniciais aprendidos até o momento.
 
 ---
 
+## 📚 Estrutura do Estudo de Grid
+
+1. 📐 Grid - Introdução ao CSS Grid (este arquivo)
+2. 📏 [Grid 2 — Colunas, Itens e Alinhamento](/Grid%202%20Columns/README.md)
+3. 🏗️ [Grid 3 - Template Rows e Organização de Layout](/Grid%203%20Template%20Rows/README.md)
+
+---
+
 ## 🧱 Estrutura do Projeto
 
 O layout é composto por:
