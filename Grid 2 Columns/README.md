@@ -4,6 +4,14 @@ Continuação do estudo de **CSS Grid Layout**, agora focando em **grid-column**
 
 ---
 
+## 📚 Estrutura do Estudo de Grid
+
+1. 📐 [Grid - Introdução ao CSS Grid](/Grid/README.md)
+2. 📏 [Grid 2 — Colunas, Itens e Alinhamento (este arquivo)
+3. 🏗️ [Grid 3 - Template Rows e Organização de Layout](/Grid%203%20Template%20Rows/README.md)
+
+---
+
 ## 🧱 Estrutura Base do Grid
 
 O layout utiliza duas colunas iguais:
