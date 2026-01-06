@@ -6,7 +6,15 @@ O objetivo principal foi entender não apenas as propriedades do Grid, mas **com
 
 ---
 
-## 📚 Conteúdos estudados
+## 📚 Estrutura do Estudo de Grid
+
+1. 📐 [Grid - Introdução ao CSS Grid](/Grid/README.md)
+2. 📏 [Grid 2 - Colunas, Itens e Alinhamento](/Grid%202%20Columns/README.md)
+3. 🏗️ [Grid 3 - Template Rows e Organização de Layout (este arquivo)
+
+---
+
+## 📗 Conteúdos estudados
 
 ### `grid-template-rows`
 
