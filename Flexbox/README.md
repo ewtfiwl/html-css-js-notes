@@ -13,7 +13,7 @@ Antes do Flexbox, layouts eram feitos com:
 - hacks e gambiarras
 
 ❌ Layouts quebravam facilmente  
-❌ Difíceis de manter  
+❌ Difíceis de manter
 
 O **Flexbox** surgiu para resolver **alinhamento e distribuição de elementos em uma dimensão (linha ou coluna)**.
 
@@ -71,8 +71,8 @@ Quando o conteúdo não cabe mais no container:
 }
 ```
 
-✔ Permite que os itens quebrem para a próxima linha    
-✔ Evita que o layout estoure   
+✔ Permite que os itens quebrem para a próxima linha  
+✔ Evita que o layout estoure
 
 ---
 
@@ -92,7 +92,7 @@ Quando o conteúdo não cabe mais no container:
 
 Por padrão, não há espaço vertical.
 
-Para que funcione: 
+Para que funcione:
 
 ```css
 .flex {
@@ -117,17 +117,20 @@ h2 {
 
 - O maior conteúdo ainda influencia os outros
 
+---
+
 ## 📏 Controle de Base — `flex-basis`
+
 ```css
 h2 {
   flex-basis: 0;
 }
 ```
 
-📌 Ignora o tamanho do conteúdo   
-📌 Todos os itens passam a ter o mesmo tamanho    
+📌 Ignora o tamanho do conteúdo  
+📌 Todos os itens passam a ter o mesmo tamanho
 
-Valores comuns:   
+Valores comuns:
 
 - `auto` (padrão)
 
@@ -219,12 +222,13 @@ Se os itens usam `flex: 1`:
 
 - `minmax(150px, auto)` → mínimo fixo, máximo flexível
 
-✔ Layout responsivo    
-✔ Não precisa definir número de colunas  
+✔ Layout responsivo  
+✔ Não precisa definir número de colunas
 
 ---
 
 ## 🧪 Código Final — Flex e Grid
+
 ### HTML
 
 ```html
