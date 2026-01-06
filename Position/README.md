@@ -4,6 +4,13 @@ Estudo da propriedade **`position`**, entendendo como ela altera o **fluxo norma
 
 ---
 
+## 📚 Estrutura do Estudo de Position
+
+1. 📍 CSS Position — Fluxo, Fixed, Relative e Absolute (este arquivo)
+2. 🧱 [CSS Position — Parte 2: Profundidade, Ordem e z-index](/Position%202/README.md)
+
+---
+
 ## 🧠 O que é o fluxo normal?
 
 Por padrão, os elementos HTML seguem o **fluxo normal**:
@@ -55,6 +62,8 @@ Por isso, precisamos definir **onde ele deve ficar**:
 }
 ```
 
+---
+
 ## 📐 Propriedades de posicionamento
 
 Essas propriedades só funcionam se o `position` for **diferente de** `static`:
@@ -66,6 +75,8 @@ Essas propriedades só funcionam se o `position` for **diferente de** `static`:
 - `bottom`
 
 - `left`
+
+---
 
 ## 📏 Esticando o elemento
 
@@ -83,6 +94,8 @@ Essas propriedades só funcionam se o `position` for **diferente de** `static`:
 ⚠️ É possível usar `top` e `bottom` juntos, o que define a altura do elemento.
 
 Porém, na prática, geralmente escolhe-se `top` OU `bottom` para evitar comportamentos inesperados.
+
+---
 
 ## 📦 Position: relative
 
@@ -116,6 +129,8 @@ Valores comuns:
 
 👉 Muito usado para **pequenos ajustes visuais**.
 
+---
+
 ## 📌 Position: absolute
 
 O `absolute` **remove completamente o elemento do fluxo**.
@@ -130,6 +145,8 @@ Exemplo básico:
 ```
 
 📌 Sem referência, ele se posiciona em relação **à tela inteira**.
+
+---
 
 ## 🎯 Tornando o posicionamento relativo ao container
 
@@ -150,6 +167,8 @@ Para resolver isso:
 
 _📌 Agora o elemento se posiciona em relação ao container, não à tela._
 
+---
+
 ## 🧩 Uso prático: Etiqueta “Saiba Mais”
 
 Esse tipo de layout seria difícil no fluxo normal, exigindo:
@@ -159,6 +178,8 @@ Esse tipo de layout seria difícil no fluxo normal, exigindo:
 - hacks visuais
 
 Com `position`, fica simples e limpo.
+
+---
 
 ## 🧪 Código Final do Projeto
 
@@ -221,6 +242,8 @@ span {
 
 👉 Layout principal → Grid e Flexbox
 👉 Ajustes pontuais → Position
+
+---
 
 ## 🧠 Conceitos-Chave Aprendidos
 
