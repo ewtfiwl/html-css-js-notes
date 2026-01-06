@@ -1,6 +1,8 @@
-# CSS Grid — Colunas, Itens e Alinhamento
+# 📐 CSS Grid — Colunas, Itens e Alinhamento
 
 Continuação do estudo de **CSS Grid Layout**, agora focando em **grid-column**, **span**, alinhamento de itens e a diferença entre **conteúdo** vs **caixa**.
+
+---
 
 ## 🧱 Estrutura Base do Grid
 
@@ -15,6 +17,8 @@ O layout utiliza duas colunas iguais:
 ```
 
 Isso cria duas colunas flexíveis, que servem de base para controlar onde cada elemento aparece.
+
+---
 
 ## 📐 Controle de Colunas com `grid-column`
 
@@ -38,6 +42,8 @@ grid-column: 1 / 3;
 
   - Ou seja: ocupa as duas colunas
 
+  ***
+
 ## Exemplos do projeto
 
 ```css
@@ -56,6 +62,8 @@ grid-column: 1 / 3;
 
 👉 Isso faz imagem, descrição e botão ocuparem a largura total do Grid.
 
+---
+
 ## 🔁 Usando `-1` para ir até o final
 
 Quando não sabemos quantas colunas existem, ou elas são dinâmicas, usamos:
@@ -70,6 +78,8 @@ independentemente da quantidade de colunas.
 ✔ Mais seguro  
 ✔ Mais flexível  
 ✔ Muito usado em layouts reais
+
+---
 
 ## 📏 Expandindo Colunas com span
 
@@ -90,6 +100,8 @@ grid-column: span 4;
 
 _📌 O comportamento sempre depende da quantidade de colunas disponíveis._
 
+---
+
 ## ▶️ Começar de uma coluna específica + span
 
 Também é possível combinar:
@@ -105,6 +117,8 @@ Significa:
 - Ocupa 3 colunas
 
 👉 Muito útil em grids maiores e layouts complexos.
+
+---
 
 ## 📦 Alinhamento de Itens (`align-items` e `justify-items`)
 
@@ -127,6 +141,8 @@ Exemplo:
 - Itens menores tentam se alinhar ao centro do item maior
 
 - O tamanho do maior elemento define o eixo
+
+---
 
 ## 🧩 Atalho com `place-items`
 
@@ -161,6 +177,8 @@ place-items: end center;
 
 📌 Alinha os itens respeitando o tamanho real de cada um.
 
+---
+
 ## 🎯 Alinhando Itens Individualmente (`place-self`)
 
 Para alinhar um item específico, usamos:
@@ -177,6 +195,8 @@ justify-self: end;
 ```
 
 👉 Muito útil para botões, preços ou elementos pontuais.
+
+---
 
 ## 📦 Caixa vs Conteúdo (**conceito MUITO importante**)
 
@@ -207,7 +227,9 @@ Extra 👽
 
 - Portanto prefira: `text-align: right`, para maior compatibilidade com todos os navegadores
 
-## 🧠 Alinhar a Caixa ≠ Alinhar o Texto
+---
+
+## 🪡 Alinhar a Caixa ≠ Alinhar o Texto
 
 Resumo importante:
 | O que você quer mover | Propriedade |
@@ -227,6 +249,8 @@ Exemplo completo:
 - Caixa vai para o topo
 
 - Texto fica centralizado
+
+---
 
 ## 🧠 Conceitos-Chave Aprendidos
 
