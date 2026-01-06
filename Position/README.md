@@ -98,11 +98,9 @@ top: 20px;
 
 📌 O elemento:
 
-- Continua ocupando seu espaço original
+- Continua ocupando seu espaço original no fluxo
 
 - Se move **em relação a ele mesmo**
-
-- Continua ocupando seu espaço original no fluxo
 
 - O deslocamento é apenas visual
 
