@@ -27,7 +27,9 @@ Quando precisamos de algo que **não siga esse fluxo** (ex: botão de cookies, e
 
 ## 📍 Position: fixed
 
-Usado quando um elemento deve **permanecer visível na tela**, mesmo com scroll.
+O `position: fixed` remove o elemento do fluxo normal e fixa sua posição em relação à **tela (viewport)**.    
+
+Usado quando um elemento deve **permanecer visível na tela**, mesmo com scroll.   
 
 Exemplo clássico:
 
