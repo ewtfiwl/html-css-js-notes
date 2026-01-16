@@ -47,8 +47,8 @@ Aqui eu documento:
 ### Fundamentos
 
 - [Box Model](/Box%20Model/)
-- [Box Model original](/Box%20Model%20original/)
-- [Estilos do Browser](/Estilos%20do%20Browser/)
+- [Box Model original](/Box%20Model/Box%20Model%20original)
+- [Estilos do Browser](/Estilos%20do%20%20Browser/)
 - [Posicionamento](/Posicionamento/)
 - [Position](/Position/)
 - [Position 2](/Position%202/)
@@ -78,7 +78,7 @@ Aqui eu documento:
 
 ### Projetos
 
-- [Carros e Bicicletas](/Carros%20e%20Bicicletas/) _(dentro da pasta Box Model)_
+- [Carros e Bicicletas](/Box%20Model/Carros%20e%20Bicicletas/) _(dentro da pasta Box Model)_
 - [Cinema](/Cinema/)
 - [web](/web/)
 
@@ -93,7 +93,7 @@ Aqui eu documento:
 Mini-projeto para praticar **HTML e CSS**, focando em Box Model, cards, links estilizados e organização visual.
 
 - Pasta: [Box Model/Carros e Bicicletas](./Box%20Model/Carros%20e%20Bicicletas/)
-- [README do projeto](./Box%20Model/Carros%20e%20Bicletas/README.md)
+- [README do projeto](./Box%20Model/Carros%20e%20Bicicletas#readme/)
 
 ---
 
