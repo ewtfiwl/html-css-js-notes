@@ -17,7 +17,7 @@ Aqui guardo exemplos, exercícios, testes, anotações importantes e pequenos pr
 ## 📑 Índice
 
 - [📘 Sobre o Repositório](#-sobre-o-repositório)
-- [📂 Estrutura de Pastas](#-estrutura-de-pastas)
+- [📂 Estrutura do Repositório](#-estrutura-do-repositório)
 - [🚗 Projetos](#-projetos)
 - [📚 Anotações Importantes](#-anotações-importantes)
 - [🔧 Comandos Git Essenciais](#-comandos-git-essenciais)
