@@ -42,23 +42,45 @@ Aqui eu documento:
 
 ---
 
-## 📂 Estrutura de Pastas
+## 📂 Estrutura do Repositório
 
-- [Background e Colors](/BackGround%20e%20Colors/)
+### Fundamentos
+
 - [Box Model](/Box%20Model/)
-- [Cinema](/Cinema/)
-- [Estilos do Browser](/Estilos%20do%20%20Browser/)
+- [Box Model original](/Box%20Model%20original/)
+- [Estilos do Browser](/Estilos%20do%20Browser/)
+- [Posicionamento](/Posicionamento/)
+- [Position](/Position/)
+- [Position 2](/Position%202/)
+- [Top, Right, Bottom, Left](/Top%2C%20Right%2C%20Bottom%2C%20Left/)
+- [Pontos de Referência](/Pontos%20de%20Refer%C3%AAncia/)
+- [Semântica](/Sem%C3%A2ntica/)
+- [Unidades](/Unidades/)
+- [Unidades 2](/Unidades%202/)
+
+### Layout
+
 - [Flexbox](/Flexbox/)
+- [Grid](/Grid/)
 - [Grid 2 Columns](/Grid%202%20Columns/)
 - [Grid 3 Template Rows](/Grid%203%20Template%20Rows/)
-- [Grid](/Grid/)
-- [Posicionamento](/Posicionamento/)
-- [Position 2](/Position%202/)
-- [Position](/Position/)
-- [Top, Right, Bottom, Left](/Top%2C%20Right%2C%20Bottom%2C%20Left/)
-- [img](/img/)
+- [Navegação](/Navega%C3%A7%C3%A3o/)
+
+### Estilo e Tipografia
+
+- [Background](/Background/)
+- [BackGround e Colors](/BackGround%20e%20Colors/)
+- [Tipografia](/Tipografia/)
+- [Listas](/Listas/)
+- [blockquote, q, cite, em, strong](/blockquote%2C%20q%2C%20cite%2C%20em%2C%20strong/)
+- [Pseudo Classes](/Pseudo%20Classes/)
+- [Pseudo Elements](/Pseudo%20Elements/)
+
+### Projetos
+
+- [Carros e Bicicletas](/Carros%20e%20Bicicletas/) _(dentro da pasta Box Model)_
+- [Cinema](/Cinema/)
 - [web](/web/)
-- [README Principal](/README.md/)
 
 > Cada pasta de estudo possui seu próprio README com anotações específicas da aula.
 
