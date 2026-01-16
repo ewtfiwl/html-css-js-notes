@@ -33,3 +33,11 @@ li::before {
   border-radius: 50%;
   margin-right: 10px;
 }
+
+p::first-line {
+  font-weight: bold;
+}
+
+p::first-letter {
+  font-size: 2rem;
+}
